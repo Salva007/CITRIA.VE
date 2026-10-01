@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="citriaGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FA2A6A"/>
+      <stop offset="100%" stop-color="#FF7A00"/>
+    </linearGradient>
+  </defs>
+  <circle cx="50" cy="50" r="46" fill="url(#citriaGrad)"/>
+  <circle cx="50" cy="50" r="41" fill="#FFE5ED" stroke="#FFFFFF" stroke-width="2"/>
+  <!-- Citrus Segments in Pink & Orange -->
+  <g fill="#FA2A6A">
+    <path d="M50 46 L38 20 A34 34 0 0 1 48 18 Z" opacity="0.9"/>
+    <path d="M52 46 L62 20 A34 34 0 0 1 52 18 Z" opacity="0.9"/>
+    <path d="M54 50 L80 38 A34 34 0 0 1 82 48 Z" opacity="0.9"/>
+    <path d="M54 52 L80 62 A34 34 0 0 1 82 52 Z" opacity="0.9"/>
+    <path d="M50 54 L38 80 A34 34 0 0 1 48 82 Z" opacity="0.9"/>
+    <path d="M48 54 L20 62 A34 34 0 0 1 18 52 Z" opacity="0.9"/>
+    <path d="M46 50 L20 38 A34 34 0 0 1 18 48 Z" opacity="0.9"/>
+  </g>
+  <!-- Center letter C in Serif White -->
+  <text x="50" y="58" font-family="'Playfair Display', serif" font-size="28" font-weight="bold" fill="#2A1810" text-anchor="middle">C</text>
+</svg>
