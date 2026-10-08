@@ -68,7 +68,7 @@ export default function AboutPage() {
               Color, calidez y actitud costera
             </h2>
             <p className="text-sm text-citria-cocoa/80 leading-relaxed">
-              Inspirados en la luminosidad de Lechería y el oriente venezolano, cada pieza refleja una vibra fresca y sofisticada. Buscamos combinaciones cromáticas alegres: rosas luminosos, toques cítricos, destellos dorados y tonalidades neutras que contrastan con naturalidad.
+              Inspirados en la luminosidad de Puerto La Cruz y el oriente venezolano, cada pieza refleja una vibra fresca y sofisticada. Buscamos combinaciones cromáticas alegres: rosas luminosos, toques cítricos, destellos dorados y tonalidades neutras que contrastan con naturalidad.
             </p>
             <p className="text-sm text-citria-cocoa/80 leading-relaxed">
               No seguimos esquemas corporativos fríos; preferimos el calor de lo auténtico y la emoción de encontrar esa pieza que te saca una sonrisa.
@@ -77,7 +77,7 @@ export default function AboutPage() {
 
           <div className="rounded-3xl overflow-hidden shadow-card border-4 border-white aspect-[4/5]">
             <img
-              src="/assets/citria/products/carteras_miyuki/CITRIA_Cartera_Miyuki_001.jpg"
+              src="/assets/citria/products/carteras_miyuki/CITRIA_Cartera_Miyuki_001.png"
               alt="Mundo visual CITRIA"
               className="w-full h-full object-cover"
             />
@@ -88,7 +88,7 @@ export default function AboutPage() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center md:flex-row-reverse">
           <div className="rounded-3xl overflow-hidden shadow-card border-4 border-white aspect-[4/5] order-2 md:order-1">
             <img
-              src="/assets/citria/products/franelas_custom/CITRIA_Franela_Custom_01.jpg"
+              src="/assets/citria/products/franelas_custom/CITRIA_Franela_Custom_01.png"
               alt="Handmade y dedicación artesanal"
               className="w-full h-full object-cover"
             />
@@ -123,7 +123,7 @@ export default function AboutPage() {
                 Ubicación Oficial
               </span>
               <p className="text-citria-cocoa font-medium">
-                Lechería, Anzoátegui, Venezuela
+                Puerto La Cruz, Anzoátegui, Venezuela
               </p>
             </div>
 

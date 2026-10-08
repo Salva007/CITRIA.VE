@@ -17,7 +17,7 @@ export const BRAND_INFO = {
   spotifyPlaylistUrl: null,
   
   // Ubicación y cobertura
-  location: "Lechería, estado Anzoátegui, Venezuela",
+  location: "Puerto La Cruz, estado Anzoátegui, Venezuela",
   deliveryZones: [
     { name: "Lechería", description: "Delivery local en toda la zona metropolitana de Lechería." },
     { name: "Puerto La Cruz", description: "Envíos y entregas coordinadas en PLC." },
@@ -99,7 +99,7 @@ export const BRAND_INFO = {
   faqs: [
     {
       question: "¿Dónde está ubicada CITRIA?",
-      answer: "CITRIA está ubicada en Lechería, estado Anzoátegui, Venezuela."
+      answer: "CITRIA está ubicada en Puerto La Cruz, estado Anzoátegui, Venezuela."
     },
     {
       question: "¿Realizan delivery?",

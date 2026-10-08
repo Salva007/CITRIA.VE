@@ -19,7 +19,7 @@ export default function PrivacyPage() {
             Política de <span className="text-citria-pink italic font-normal">Privacidad</span>
           </h1>
           <p className="text-xs sm:text-sm text-citria-cocoa/70 max-w-xl mx-auto mt-2">
-            Última actualización: Septiembre 2026 · CITRIA.VE (Lechería, Venezuela)
+            Última actualización: Septiembre 2026 · CITRIA.VE (Puerto La Cruz, Venezuela)
           </p>
         </div>
       </div>
@@ -33,7 +33,7 @@ export default function PrivacyPage() {
               1. Identificación y Alcance
             </h3>
             <p>
-              El presente sitio web es operado por <strong>CITRIA</strong>, marca de accesorios y productos de moda con operaciones en Lechería, estado Anzoátegui, Venezuela. Esta política describe cómo se gestiona la información que nos compartes al navegar por este catálogo o al contactarnos vía WhatsApp o Instagram.
+              El presente sitio web es operado por <strong>CITRIA</strong>, marca de accesorios y productos de moda con operaciones en Puerto La Cruz, estado Anzoátegui, Venezuela. Esta política describe cómo se gestiona la información que nos compartes al navegar por este catálogo o al contactarnos vía WhatsApp o Instagram.
             </p>
           </section>
 

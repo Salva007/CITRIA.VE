@@ -26,7 +26,7 @@ export default function ProductModal({ product, onClose }) {
   const favorited = isFavorite(product.id);
   const images = product.images && product.images.length > 0
     ? product.images
-    : ['/brand/citria-isotipo.png'];
+    : [];
   const whatsappUrl = getProductWhatsAppUrl(product);
 
   const handleShare = async () => {
@@ -60,11 +60,17 @@ export default function ProductModal({ product, onClose }) {
         {/* Left Column: Image Gallery */}
         <div className="w-full md:w-1/2 p-4 sm:p-6 bg-citria-pink-subtle/50 flex flex-col justify-between flex-shrink-0">
           <div className="relative aspect-[4/3] sm:aspect-[4/5] max-h-[32vh] sm:max-h-none rounded-2xl overflow-hidden shadow-inner bg-white">
-            <img
-              src={images[selectedImageIndex]}
-              alt={`${product.name} - Imagen ${selectedImageIndex + 1}`}
-              className="w-full h-full object-contain object-center transition-all duration-300"
-            />
+            {images.length > 0 ? (
+              <img
+                src={images[selectedImageIndex]}
+                alt={`${product.name} - Imagen ${selectedImageIndex + 1}`}
+                className="w-full h-full object-contain object-center transition-all duration-300"
+              />
+            ) : (
+              <div className="w-full h-full flex items-center justify-center px-8 text-center">
+                <span className="text-xs font-semibold uppercase tracking-wider text-citria-cocoa/45">Imagen no disponible</span>
+              </div>
+            )}
             {product.code && (
               <span className="absolute top-2.5 left-2.5 sm:top-3 sm:left-3 px-2.5 py-0.5 sm:px-3 sm:py-1 bg-white/95 backdrop-blur-md text-citria-cocoa text-[11px] sm:text-xs font-bold rounded-full shadow-sm">
                 Código {product.code}
@@ -98,7 +104,7 @@ export default function ProductModal({ product, onClose }) {
           <div className="flex items-center justify-between text-xs text-citria-pink font-semibold uppercase tracking-widest mb-2">
             <span>{product.categoryName || product.category}</span>
             <span className="text-citria-cocoa/50 font-normal normal-case">
-              CITRIA · Lechería
+              CITRIA · Puerto La Cruz
             </span>
           </div>
 
@@ -128,6 +134,14 @@ export default function ProductModal({ product, onClose }) {
               </ul>
             </div>
           )}
+
+          {/* Current catalog price */}
+          <div className="flex items-center justify-between gap-4 mb-5 px-1">
+            <span className="text-xs font-semibold uppercase tracking-wider text-citria-cocoa/55">Precio</span>
+            <span className="font-serif text-2xl font-bold text-citria-pink">
+              {product.price != null ? `$${product.price}` : 'Consulta precio al WhatsApp'}
+            </span>
+          </div>
 
           {/* Commercial Disclaimer (Mandatory per PRD) */}
           <div className="bg-amber-50/70 border border-amber-200/80 rounded-2xl p-3.5 mb-6 text-xs text-amber-900 flex items-start gap-2.5">

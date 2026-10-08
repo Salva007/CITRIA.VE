@@ -16,7 +16,7 @@ export default function ManifestSection() {
     {
       icon: Sun,
       title: "Esencia Costera",
-      description: "Inspirada en el sol, la brisa marina y el estilo casual chic de Lechería, Anzoátegui."
+      description: "Inspirada en el sol, la brisa marina y el estilo casual chic de Puerto La Cruz, Anzoátegui."
     },
     {
       icon: Sparkles,

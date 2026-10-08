@@ -10,7 +10,7 @@ export default function LinksHubPage() {
   const links = [
     {
       title: "Explorar Catálogo Digital",
-      subtitle: "Piezas Miyuki, Lentes Oval, Phone Cases y más",
+      subtitle: "Carteras y Bandoleros Miyuki, Lentes Oval, Custom y más",
       icon: ShoppingBag,
       to: "/catalogo",
       isInternal: true,
@@ -76,7 +76,7 @@ export default function LinksHubPage() {
 
           <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-citria-pink-light text-citria-pink text-[11px] font-bold uppercase tracking-wider">
             <Sparkles className="w-3 h-3 fill-current" />
-            <span>Finds Especiales · Lechería, VE</span>
+            <span>Finds Especiales · Puerto La Cruz, VE</span>
           </div>
           <p className="text-xs text-citria-cocoa/75 max-w-xs mx-auto leading-relaxed">
             Accesorios, detalles y piezas especiales para acompañar tu estilo o regalar.

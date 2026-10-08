@@ -1,1928 +1,1307 @@
 [
   {
-    "product_id": "carteras_miyuki-001",
-    "category": "Cartera Miyuki",
-    "code": "001",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_001.jpg",
-    "source_page": 4,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-002",
-    "category": "Cartera Miyuki",
-    "code": "002",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_002.jpg",
-    "source_page": 4,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-003",
-    "category": "Cartera Miyuki",
-    "code": "003",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_003.jpg",
-    "source_page": 4,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-004",
-    "category": "Cartera Miyuki",
-    "code": "004",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_004.jpg",
-    "source_page": 4,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-005",
-    "category": "Cartera Miyuki",
-    "code": "005",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_005.jpg",
-    "source_page": 5,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-007",
-    "category": "Cartera Miyuki",
-    "code": "007",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_007.jpg",
-    "source_page": 5,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-009",
-    "category": "Cartera Miyuki",
-    "code": "009",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_009.jpg",
-    "source_page": 5,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-008",
-    "category": "Cartera Miyuki",
-    "code": "008",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_008.jpg",
-    "source_page": 5,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-010",
-    "category": "Cartera Miyuki",
-    "code": "010",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_010.jpg",
-    "source_page": 5,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-006",
-    "category": "Cartera Miyuki",
-    "code": "006",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_006.jpg",
-    "source_page": 5,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-011",
-    "category": "Cartera Miyuki",
-    "code": "011",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_011.jpg",
-    "source_page": 6,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-012",
-    "category": "Cartera Miyuki",
-    "code": "012",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_012.jpg",
-    "source_page": 6,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-014",
-    "category": "Cartera Miyuki",
-    "code": "014",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_014.jpg",
-    "source_page": 6,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-015",
-    "category": "Cartera Miyuki",
-    "code": "015",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_015.jpg",
-    "source_page": 6,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-013",
-    "category": "Cartera Miyuki",
-    "code": "013",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_013.jpg",
-    "source_page": 6,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-016",
-    "category": "Cartera Miyuki",
-    "code": "016",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_016.jpg",
-    "source_page": 6,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-017",
-    "category": "Cartera Miyuki",
-    "code": "017",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_017.jpg",
-    "source_page": 7,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-018",
-    "category": "Cartera Miyuki",
-    "code": "018",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_018.jpg",
-    "source_page": 7,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-019",
-    "category": "Cartera Miyuki",
-    "code": "019",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_019.jpg",
-    "source_page": 7,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-021",
-    "category": "Cartera Miyuki",
-    "code": "021",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_021.jpg",
-    "source_page": 7,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-022",
-    "category": "Cartera Miyuki",
-    "code": "022",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_022.jpg",
-    "source_page": 7,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-020",
-    "category": "Cartera Miyuki",
-    "code": "020",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_020.jpg",
-    "source_page": 7,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-023",
-    "category": "Cartera Miyuki",
-    "code": "023",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_023.jpg",
-    "source_page": 8,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-025",
-    "category": "Cartera Miyuki",
-    "code": "025",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_025.jpg",
-    "source_page": 8,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-027",
-    "category": "Cartera Miyuki",
-    "code": "027",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_027.jpg",
-    "source_page": 8,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-028",
-    "category": "Cartera Miyuki",
-    "code": "028",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_028.jpg",
-    "source_page": 8,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-026",
-    "category": "Cartera Miyuki",
-    "code": "026",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_026.jpg",
-    "source_page": 8,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-024",
-    "category": "Cartera Miyuki",
-    "code": "024",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_024.jpg",
-    "source_page": 8,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-029",
-    "category": "Cartera Miyuki",
-    "code": "029",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_029.jpg",
-    "source_page": 9,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-030",
-    "category": "Cartera Miyuki",
-    "code": "030",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_030.jpg",
-    "source_page": 9,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-031",
-    "category": "Cartera Miyuki",
-    "code": "031",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_031.jpg",
-    "source_page": 9,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-032",
-    "category": "Cartera Miyuki",
-    "code": "032",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_032.jpg",
-    "source_page": 9,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-034",
-    "category": "Cartera Miyuki",
-    "code": "034",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_034.jpg",
-    "source_page": 9,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-033",
-    "category": "Cartera Miyuki",
-    "code": "033",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_033.jpg",
-    "source_page": 9,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-035",
-    "category": "Cartera Miyuki",
-    "code": "035",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_035.jpg",
-    "source_page": 10,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-037",
-    "category": "Cartera Miyuki",
-    "code": "037",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_037.jpg",
-    "source_page": 10,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-039",
-    "category": "Cartera Miyuki",
-    "code": "039",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_039.jpg",
-    "source_page": 10,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-040",
-    "category": "Cartera Miyuki",
-    "code": "040",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_040.jpg",
-    "source_page": 10,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-038",
-    "category": "Cartera Miyuki",
-    "code": "038",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_038.jpg",
-    "source_page": 10,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-036",
-    "category": "Cartera Miyuki",
-    "code": "036",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_036.jpg",
-    "source_page": 10,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-041",
-    "category": "Cartera Miyuki",
-    "code": "041",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_041.jpg",
-    "source_page": 11,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-043",
-    "category": "Cartera Miyuki",
-    "code": "043",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_043.jpg",
-    "source_page": 11,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-045",
-    "category": "Cartera Miyuki",
-    "code": "045",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_045.jpg",
-    "source_page": 11,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-046",
-    "category": "Cartera Miyuki",
-    "code": "046",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_046.jpg",
-    "source_page": 11,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-044",
-    "category": "Cartera Miyuki",
-    "code": "044",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_044.jpg",
-    "source_page": 11,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-042",
-    "category": "Cartera Miyuki",
-    "code": "042",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_042.jpg",
-    "source_page": 11,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-047",
-    "category": "Cartera Miyuki",
-    "code": "047",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_047.jpg",
-    "source_page": 12,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-049",
-    "category": "Cartera Miyuki",
-    "code": "049",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_049.jpg",
-    "source_page": 12,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "carteras_miyuki-048",
-    "category": "Cartera Miyuki",
-    "code": "048",
-    "filename": "carteras_miyuki/CITRIA_Cartera_Miyuki_048.jpg",
-    "source_page": 12,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bandoleros_miyuki-050",
-    "category": "Bandolero Miyuki",
-    "code": "050",
-    "filename": "bandoleros_miyuki/CITRIA_Bandolero_Miyuki_050.jpg",
-    "source_page": 14,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bandoleros_miyuki-051",
-    "category": "Bandolero Miyuki",
-    "code": "051",
-    "filename": "bandoleros_miyuki/CITRIA_Bandolero_Miyuki_051.jpg",
-    "source_page": 14,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bandoleros_miyuki-052",
-    "category": "Bandolero Miyuki",
-    "code": "052",
-    "filename": "bandoleros_miyuki/CITRIA_Bandolero_Miyuki_052.jpg",
-    "source_page": 14,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bandoleros_miyuki-053",
-    "category": "Bandolero Miyuki",
-    "code": "053",
-    "filename": "bandoleros_miyuki/CITRIA_Bandolero_Miyuki_053.jpg",
-    "source_page": 14,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bandoleros_miyuki-054",
-    "category": "Bandolero Miyuki",
-    "code": "054",
-    "filename": "bandoleros_miyuki/CITRIA_Bandolero_Miyuki_054.jpg",
-    "source_page": 15,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bandoleros_miyuki-055",
-    "category": "Bandolero Miyuki",
-    "code": "055",
-    "filename": "bandoleros_miyuki/CITRIA_Bandolero_Miyuki_055.jpg",
-    "source_page": 15,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bandoleros_miyuki-056",
-    "category": "Bandolero Miyuki",
-    "code": "056",
-    "filename": "bandoleros_miyuki/CITRIA_Bandolero_Miyuki_056.jpg",
-    "source_page": 15,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bandoleros_miyuki-057",
-    "category": "Bandolero Miyuki",
-    "code": "057",
-    "filename": "bandoleros_miyuki/CITRIA_Bandolero_Miyuki_057.jpg",
-    "source_page": 15,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bandoleros_miyuki-058",
-    "category": "Bandolero Miyuki",
-    "code": "058",
-    "filename": "bandoleros_miyuki/CITRIA_Bandolero_Miyuki_058.jpg",
-    "source_page": 15,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bandoleros_miyuki-059",
-    "category": "Bandolero Miyuki",
-    "code": "059",
-    "filename": "bandoleros_miyuki/CITRIA_Bandolero_Miyuki_059.jpg",
-    "source_page": 15,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bandoleros_miyuki-060",
-    "category": "Bandolero Miyuki",
-    "code": "060",
-    "filename": "bandoleros_miyuki/CITRIA_Bandolero_Miyuki_060.jpg",
-    "source_page": 16,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bandoleros_miyuki-061",
-    "category": "Bandolero Miyuki",
-    "code": "061",
-    "filename": "bandoleros_miyuki/CITRIA_Bandolero_Miyuki_061.jpg",
-    "source_page": 16,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bandoleros_miyuki-062",
-    "category": "Bandolero Miyuki",
-    "code": "062",
-    "filename": "bandoleros_miyuki/CITRIA_Bandolero_Miyuki_062.jpg",
-    "source_page": 16,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bandoleros_miyuki-065",
-    "category": "Bandolero Miyuki",
-    "code": "065",
-    "filename": "bandoleros_miyuki/CITRIA_Bandolero_Miyuki_065.jpg",
-    "source_page": 16,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bandoleros_miyuki-064",
-    "category": "Bandolero Miyuki",
-    "code": "064",
-    "filename": "bandoleros_miyuki/CITRIA_Bandolero_Miyuki_064.jpg",
-    "source_page": 16,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bandoleros_miyuki-063",
-    "category": "Bandolero Miyuki",
-    "code": "063",
-    "filename": "bandoleros_miyuki/CITRIA_Bandolero_Miyuki_063.jpg",
-    "source_page": 16,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bandoleros_miyuki-066",
-    "category": "Bandolero Miyuki",
-    "code": "066",
-    "filename": "bandoleros_miyuki/CITRIA_Bandolero_Miyuki_066.jpg",
-    "source_page": 17,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bandoleros_miyuki-067",
-    "category": "Bandolero Miyuki",
-    "code": "067",
-    "filename": "bandoleros_miyuki/CITRIA_Bandolero_Miyuki_067.jpg",
-    "source_page": 17,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bandoleros_miyuki-068",
-    "category": "Bandolero Miyuki",
-    "code": "068",
-    "filename": "bandoleros_miyuki/CITRIA_Bandolero_Miyuki_068.jpg",
-    "source_page": 17,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bandoleros_miyuki-069",
-    "category": "Bandolero Miyuki",
-    "code": "069",
-    "filename": "bandoleros_miyuki/CITRIA_Bandolero_Miyuki_069.jpg",
-    "source_page": 17,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bandoleros_miyuki-071",
-    "category": "Bandolero Miyuki",
-    "code": "071",
-    "filename": "bandoleros_miyuki/CITRIA_Bandolero_Miyuki_071.jpg",
-    "source_page": 17,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bandoleros_miyuki-070",
-    "category": "Bandolero Miyuki",
-    "code": "070",
-    "filename": "bandoleros_miyuki/CITRIA_Bandolero_Miyuki_070.jpg",
-    "source_page": 17,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bandoleros_miyuki-072",
-    "category": "Bandolero Miyuki",
-    "code": "072",
-    "filename": "bandoleros_miyuki/CITRIA_Bandolero_Miyuki_072.jpg",
-    "source_page": 18,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bandoleros_miyuki-072_b",
-    "category": "Bandolero Miyuki",
-    "code": "072",
-    "filename": "bandoleros_miyuki/CITRIA_Bandolero_Miyuki_072_B.jpg",
-    "source_page": 18,
-    "duplicate_code": true,
-    "note": "Source code duplicated in catalog."
-  },
-  {
-    "product_id": "bandoleros_miyuki-073",
-    "category": "Bandolero Miyuki",
-    "code": "073",
-    "filename": "bandoleros_miyuki/CITRIA_Bandolero_Miyuki_073.jpg",
-    "source_page": 18,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bandoleros_miyuki-074",
-    "category": "Bandolero Miyuki",
-    "code": "074",
-    "filename": "bandoleros_miyuki/CITRIA_Bandolero_Miyuki_074.jpg",
-    "source_page": 18,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bandoleros_miyuki-075",
-    "category": "Bandolero Miyuki",
-    "code": "075",
-    "filename": "bandoleros_miyuki/CITRIA_Bandolero_Miyuki_075.jpg",
-    "source_page": 18,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bandoleros_miyuki-076",
-    "category": "Bandolero Miyuki",
-    "code": "076",
-    "filename": "bandoleros_miyuki/CITRIA_Bandolero_Miyuki_076.jpg",
-    "source_page": 18,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bandoleros_miyuki-077",
-    "category": "Bandolero Miyuki",
-    "code": "077",
-    "filename": "bandoleros_miyuki/CITRIA_Bandolero_Miyuki_077.jpg",
-    "source_page": 19,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bandoleros_miyuki-078",
-    "category": "Bandolero Miyuki",
-    "code": "078",
-    "filename": "bandoleros_miyuki/CITRIA_Bandolero_Miyuki_078.jpg",
-    "source_page": 19,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bandoleros_miyuki-080",
-    "category": "Bandolero Miyuki",
-    "code": "080",
-    "filename": "bandoleros_miyuki/CITRIA_Bandolero_Miyuki_080.jpg",
-    "source_page": 19,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bandoleros_miyuki-082",
-    "category": "Bandolero Miyuki",
-    "code": "082",
-    "filename": "bandoleros_miyuki/CITRIA_Bandolero_Miyuki_082.jpg",
-    "source_page": 19,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bandoleros_miyuki-081",
-    "category": "Bandolero Miyuki",
-    "code": "081",
-    "filename": "bandoleros_miyuki/CITRIA_Bandolero_Miyuki_081.jpg",
-    "source_page": 19,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bandoleros_miyuki-079",
-    "category": "Bandolero Miyuki",
-    "code": "079",
-    "filename": "bandoleros_miyuki/CITRIA_Bandolero_Miyuki_079.jpg",
-    "source_page": 19,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "lentes_oval-083",
-    "category": "Lente Oval",
-    "code": "083",
-    "filename": "lentes_oval/CITRIA_Lente_Oval_083.jpg",
-    "source_page": 20,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "lentes_oval-085",
-    "category": "Lente Oval",
-    "code": "085",
-    "filename": "lentes_oval/CITRIA_Lente_Oval_085.jpg",
-    "source_page": 20,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "lentes_oval-087",
-    "category": "Lente Oval",
-    "code": "087",
-    "filename": "lentes_oval/CITRIA_Lente_Oval_087.jpg",
-    "source_page": 20,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "lentes_oval-089",
-    "category": "Lente Oval",
-    "code": "089",
-    "filename": "lentes_oval/CITRIA_Lente_Oval_089.jpg",
-    "source_page": 20,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "lentes_oval-091",
-    "category": "Lente Oval",
-    "code": "091",
-    "filename": "lentes_oval/CITRIA_Lente_Oval_091.jpg",
-    "source_page": 20,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "lentes_oval-093",
-    "category": "Lente Oval",
-    "code": "093",
-    "filename": "lentes_oval/CITRIA_Lente_Oval_093.jpg",
-    "source_page": 20,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "lentes_oval-094",
-    "category": "Lente Oval",
-    "code": "094",
-    "filename": "lentes_oval/CITRIA_Lente_Oval_094.jpg",
-    "source_page": 20,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "lentes_oval-092",
-    "category": "Lente Oval",
-    "code": "092",
-    "filename": "lentes_oval/CITRIA_Lente_Oval_092.jpg",
-    "source_page": 20,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "lentes_oval-090",
-    "category": "Lente Oval",
-    "code": "090",
-    "filename": "lentes_oval/CITRIA_Lente_Oval_090.jpg",
-    "source_page": 20,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "lentes_oval-088",
-    "category": "Lente Oval",
-    "code": "088",
-    "filename": "lentes_oval/CITRIA_Lente_Oval_088.jpg",
-    "source_page": 20,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "lentes_oval-086",
-    "category": "Lente Oval",
-    "code": "086",
-    "filename": "lentes_oval/CITRIA_Lente_Oval_086.jpg",
-    "source_page": 20,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "lentes_oval-084",
-    "category": "Lente Oval",
-    "code": "084",
-    "filename": "lentes_oval/CITRIA_Lente_Oval_084.jpg",
-    "source_page": 20,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "lentes_oval-095",
-    "category": "Lente Oval",
-    "code": "095",
-    "filename": "lentes_oval/CITRIA_Lente_Oval_095.jpg",
-    "source_page": 21,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "lentes_oval-097",
-    "category": "Lente Oval",
-    "code": "097",
-    "filename": "lentes_oval/CITRIA_Lente_Oval_097.jpg",
-    "source_page": 21,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "lentes_oval-099",
-    "category": "Lente Oval",
-    "code": "099",
-    "filename": "lentes_oval/CITRIA_Lente_Oval_099.jpg",
-    "source_page": 21,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "lentes_oval-101",
-    "category": "Lente Oval",
-    "code": "101",
-    "filename": "lentes_oval/CITRIA_Lente_Oval_101.jpg",
-    "source_page": 21,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "lentes_oval-103",
-    "category": "Lente Oval",
-    "code": "103",
-    "filename": "lentes_oval/CITRIA_Lente_Oval_103.jpg",
-    "source_page": 21,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "lentes_oval-105",
-    "category": "Lente Oval",
-    "code": "105",
-    "filename": "lentes_oval/CITRIA_Lente_Oval_105.jpg",
-    "source_page": 21,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "lentes_oval-107",
-    "category": "Lente Oval",
-    "code": "107",
-    "filename": "lentes_oval/CITRIA_Lente_Oval_107.jpg",
-    "source_page": 21,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "lentes_oval-108",
-    "category": "Lente Oval",
-    "code": "108",
-    "filename": "lentes_oval/CITRIA_Lente_Oval_108.jpg",
-    "source_page": 21,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "lentes_oval-106",
-    "category": "Lente Oval",
-    "code": "106",
-    "filename": "lentes_oval/CITRIA_Lente_Oval_106.jpg",
-    "source_page": 21,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "lentes_oval-104",
-    "category": "Lente Oval",
-    "code": "104",
-    "filename": "lentes_oval/CITRIA_Lente_Oval_104.jpg",
-    "source_page": 21,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "lentes_oval-102",
-    "category": "Lente Oval",
-    "code": "102",
-    "filename": "lentes_oval/CITRIA_Lente_Oval_102.jpg",
-    "source_page": 21,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "lentes_oval-100",
-    "category": "Lente Oval",
-    "code": "100",
-    "filename": "lentes_oval/CITRIA_Lente_Oval_100.jpg",
-    "source_page": 21,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "lentes_oval-098",
-    "category": "Lente Oval",
-    "code": "098",
-    "filename": "lentes_oval/CITRIA_Lente_Oval_098.jpg",
-    "source_page": 21,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "lentes_oval-096",
-    "category": "Lente Oval",
-    "code": "096",
-    "filename": "lentes_oval/CITRIA_Lente_Oval_096.jpg",
-    "source_page": 21,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "phone_cases-109",
-    "category": "Phone Case",
-    "code": "109",
-    "filename": "phone_cases/CITRIA_Phone_Case_109.jpg",
-    "source_page": 22,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "phone_cases-110",
-    "category": "Phone Case",
-    "code": "110",
-    "filename": "phone_cases/CITRIA_Phone_Case_110.jpg",
-    "source_page": 22,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "phone_cases-111",
-    "category": "Phone Case",
-    "code": "111",
-    "filename": "phone_cases/CITRIA_Phone_Case_111.jpg",
-    "source_page": 22,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "phone_cases-112",
-    "category": "Phone Case",
-    "code": "112",
-    "filename": "phone_cases/CITRIA_Phone_Case_112.jpg",
-    "source_page": 22,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "phone_cases-113",
-    "category": "Phone Case",
-    "code": "113",
-    "filename": "phone_cases/CITRIA_Phone_Case_113.jpg",
-    "source_page": 22,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "phone_cases-114",
-    "category": "Phone Case",
-    "code": "114",
-    "filename": "phone_cases/CITRIA_Phone_Case_114.jpg",
-    "source_page": 22,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "phone_cases-115",
-    "category": "Phone Case",
-    "code": "115",
-    "filename": "phone_cases/CITRIA_Phone_Case_115.jpg",
-    "source_page": 22,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "phone_cases-116",
-    "category": "Phone Case",
-    "code": "116",
-    "filename": "phone_cases/CITRIA_Phone_Case_116.jpg",
-    "source_page": 22,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "phone_cases-117",
-    "category": "Phone Case",
-    "code": "117",
-    "filename": "phone_cases/CITRIA_Phone_Case_117.jpg",
-    "source_page": 22,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "phone_cases-118",
-    "category": "Phone Case",
-    "code": "118",
-    "filename": "phone_cases/CITRIA_Phone_Case_118.jpg",
-    "source_page": 23,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "phone_cases-119",
-    "category": "Phone Case",
-    "code": "119",
-    "filename": "phone_cases/CITRIA_Phone_Case_119.jpg",
-    "source_page": 23,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "phone_cases-120",
-    "category": "Phone Case",
-    "code": "120",
-    "filename": "phone_cases/CITRIA_Phone_Case_120.jpg",
-    "source_page": 23,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "phone_cases-121",
-    "category": "Phone Case",
-    "code": "121",
-    "filename": "phone_cases/CITRIA_Phone_Case_121.jpg",
-    "source_page": 23,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "phone_cases-122",
-    "category": "Phone Case",
-    "code": "122",
-    "filename": "phone_cases/CITRIA_Phone_Case_122.jpg",
-    "source_page": 23,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "phone_cases-123",
-    "category": "Phone Case",
-    "code": "123",
-    "filename": "phone_cases/CITRIA_Phone_Case_123.jpg",
-    "source_page": 23,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "phone_cases-124",
-    "category": "Phone Case",
-    "code": "124",
-    "filename": "phone_cases/CITRIA_Phone_Case_124.jpg",
-    "source_page": 23,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "phone_cases-125",
-    "category": "Phone Case",
-    "code": "125",
-    "filename": "phone_cases/CITRIA_Phone_Case_125.jpg",
-    "source_page": 23,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "phone_cases-126",
-    "category": "Phone Case",
-    "code": "126",
-    "filename": "phone_cases/CITRIA_Phone_Case_126.jpg",
-    "source_page": 23,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "batas_de_bano-127",
-    "category": "Bata de Baño",
-    "code": "127",
-    "filename": "batas_de_bano/CITRIA_Bata_de_Bano_127.jpg",
-    "source_page": 24,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "batas_de_bano-128",
-    "category": "Bata de Baño",
-    "code": "128",
-    "filename": "batas_de_bano/CITRIA_Bata_de_Bano_128.jpg",
-    "source_page": 24,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "batas_de_bano-128_b",
-    "category": "Bata de Baño",
-    "code": "128",
-    "filename": "batas_de_bano/CITRIA_Bata_de_Bano_128_B.jpg",
-    "source_page": 24,
-    "duplicate_code": true,
-    "note": "Source code duplicated in catalog."
-  },
-  {
-    "product_id": "batas_de_bano-129",
-    "category": "Bata de Baño",
-    "code": "129",
-    "filename": "batas_de_bano/CITRIA_Bata_de_Bano_129.jpg",
-    "source_page": 24,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "batas_de_bano-130",
-    "category": "Bata de Baño",
-    "code": "130",
-    "filename": "batas_de_bano/CITRIA_Bata_de_Bano_130.jpg",
-    "source_page": 25,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "batas_de_bano-131",
-    "category": "Bata de Baño",
-    "code": "131",
-    "filename": "batas_de_bano/CITRIA_Bata_de_Bano_131.jpg",
-    "source_page": 25,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "batas_de_bano-132",
-    "category": "Bata de Baño",
-    "code": "132",
-    "filename": "batas_de_bano/CITRIA_Bata_de_Bano_132.jpg",
-    "source_page": 25,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "batas_de_bano-133",
-    "category": "Bata de Baño",
-    "code": "133",
-    "filename": "batas_de_bano/CITRIA_Bata_de_Bano_133.jpg",
-    "source_page": 25,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "batas_de_bano-134",
-    "category": "Bata de Baño",
-    "code": "134",
-    "filename": "batas_de_bano/CITRIA_Bata_de_Bano_134.jpg",
-    "source_page": 25,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "batas_de_bano-135",
-    "category": "Bata de Baño",
-    "code": "135",
-    "filename": "batas_de_bano/CITRIA_Bata_de_Bano_135.jpg",
-    "source_page": 25,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "batas_de_bano-136",
-    "category": "Bata de Baño",
-    "code": "136",
-    "filename": "batas_de_bano/CITRIA_Bata_de_Bano_136.jpg",
-    "source_page": 25,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "batas_de_bano-137",
-    "category": "Bata de Baño",
-    "code": "137",
-    "filename": "batas_de_bano/CITRIA_Bata_de_Bano_137.jpg",
-    "source_page": 25,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "batas_de_bano-138",
-    "category": "Bata de Baño",
-    "code": "138",
-    "filename": "batas_de_bano/CITRIA_Bata_de_Bano_138.jpg",
-    "source_page": 25,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "batas_de_bano-139",
-    "category": "Bata de Baño",
-    "code": "139",
-    "filename": "batas_de_bano/CITRIA_Bata_de_Bano_139.jpg",
-    "source_page": 25,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "batas_de_bano-140",
-    "category": "Bata de Baño",
-    "code": "140",
-    "filename": "batas_de_bano/CITRIA_Bata_de_Bano_140.jpg",
-    "source_page": 25,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "batas_de_bano-141",
-    "category": "Bata de Baño",
-    "code": "141",
-    "filename": "batas_de_bano/CITRIA_Bata_de_Bano_141.jpg",
-    "source_page": 26,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "batas_de_bano-142",
-    "category": "Bata de Baño",
-    "code": "142",
-    "filename": "batas_de_bano/CITRIA_Bata_de_Bano_142.jpg",
-    "source_page": 26,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "batas_de_bano-143",
-    "category": "Bata de Baño",
-    "code": "143",
-    "filename": "batas_de_bano/CITRIA_Bata_de_Bano_143.jpg",
-    "source_page": 26,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "batas_de_bano-146",
-    "category": "Bata de Baño",
-    "code": "146",
-    "filename": "batas_de_bano/CITRIA_Bata_de_Bano_146.jpg",
-    "source_page": 26,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "batas_de_bano-148",
-    "category": "Bata de Baño",
-    "code": "148",
-    "filename": "batas_de_bano/CITRIA_Bata_de_Bano_148.jpg",
-    "source_page": 26,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "batas_de_bano-145",
-    "category": "Bata de Baño",
-    "code": "145",
-    "filename": "batas_de_bano/CITRIA_Bata_de_Bano_145.jpg",
-    "source_page": 26,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "batas_de_bano-144",
-    "category": "Bata de Baño",
-    "code": "144",
-    "filename": "batas_de_bano/CITRIA_Bata_de_Bano_144.jpg",
-    "source_page": 26,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "batas_de_bano-147",
-    "category": "Bata de Baño",
-    "code": "147",
-    "filename": "batas_de_bano/CITRIA_Bata_de_Bano_147.jpg",
-    "source_page": 26,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "otros_modelos_citria-149",
-    "category": "Otros Modelos CITRIA",
-    "code": "149",
-    "filename": "otros_modelos_citria/CITRIA_Otros_Modelos_CITRIA_149.jpg",
-    "source_page": 27,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "otros_modelos_citria-150",
-    "category": "Otros Modelos CITRIA",
-    "code": "150",
-    "filename": "otros_modelos_citria/CITRIA_Otros_Modelos_CITRIA_150.jpg",
-    "source_page": 27,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "otros_modelos_citria-151",
-    "category": "Otros Modelos CITRIA",
-    "code": "151",
-    "filename": "otros_modelos_citria/CITRIA_Otros_Modelos_CITRIA_151.jpg",
-    "source_page": 27,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "otros_modelos_citria-152",
-    "category": "Otros Modelos CITRIA",
-    "code": "152",
-    "filename": "otros_modelos_citria/CITRIA_Otros_Modelos_CITRIA_152.jpg",
-    "source_page": 27,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "otros_modelos_citria-153",
-    "category": "Otros Modelos CITRIA",
-    "code": "153",
-    "filename": "otros_modelos_citria/CITRIA_Otros_Modelos_CITRIA_153.jpg",
-    "source_page": 27,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "otros_modelos_citria-154",
-    "category": "Otros Modelos CITRIA",
-    "code": "154",
-    "filename": "otros_modelos_citria/CITRIA_Otros_Modelos_CITRIA_154.jpg",
-    "source_page": 27,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "otros_modelos_citria-155",
-    "category": "Otros Modelos CITRIA",
-    "code": "155",
-    "filename": "otros_modelos_citria/CITRIA_Otros_Modelos_CITRIA_155.jpg",
-    "source_page": 28,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "otros_modelos_citria-156",
-    "category": "Otros Modelos CITRIA",
-    "code": "156",
-    "filename": "otros_modelos_citria/CITRIA_Otros_Modelos_CITRIA_156.jpg",
-    "source_page": 28,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "otros_modelos_citria-157",
-    "category": "Otros Modelos CITRIA",
-    "code": "157",
-    "filename": "otros_modelos_citria/CITRIA_Otros_Modelos_CITRIA_157.jpg",
-    "source_page": 28,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "otros_modelos_citria-159",
-    "category": "Otros Modelos CITRIA",
-    "code": "159",
-    "filename": "otros_modelos_citria/CITRIA_Otros_Modelos_CITRIA_159.jpg",
-    "source_page": 28,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "otros_modelos_citria-161",
-    "category": "Otros Modelos CITRIA",
-    "code": "161",
-    "filename": "otros_modelos_citria/CITRIA_Otros_Modelos_CITRIA_161.jpg",
-    "source_page": 28,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "otros_modelos_citria-162",
-    "category": "Otros Modelos CITRIA",
-    "code": "162",
-    "filename": "otros_modelos_citria/CITRIA_Otros_Modelos_CITRIA_162.jpg",
-    "source_page": 28,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "otros_modelos_citria-160",
-    "category": "Otros Modelos CITRIA",
-    "code": "160",
-    "filename": "otros_modelos_citria/CITRIA_Otros_Modelos_CITRIA_160.jpg",
-    "source_page": 28,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "otros_modelos_citria-158",
-    "category": "Otros Modelos CITRIA",
-    "code": "158",
-    "filename": "otros_modelos_citria/CITRIA_Otros_Modelos_CITRIA_158.jpg",
-    "source_page": 28,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "otros_modelos_citria-163",
-    "category": "Otros Modelos CITRIA",
-    "code": "163",
-    "filename": "otros_modelos_citria/CITRIA_Otros_Modelos_CITRIA_163.jpg",
-    "source_page": 29,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "otros_modelos_citria-164",
-    "category": "Otros Modelos CITRIA",
-    "code": "164",
-    "filename": "otros_modelos_citria/CITRIA_Otros_Modelos_CITRIA_164.jpg",
-    "source_page": 29,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "otros_modelos_citria-165",
-    "category": "Otros Modelos CITRIA",
-    "code": "165",
-    "filename": "otros_modelos_citria/CITRIA_Otros_Modelos_CITRIA_165.jpg",
-    "source_page": 29,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bucket_hats-166",
-    "category": "Bucket Hat",
-    "code": "166",
-    "filename": "bucket_hats/CITRIA_Bucket_Hat_166.jpg",
-    "source_page": 30,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bucket_hats-167",
-    "category": "Bucket Hat",
-    "code": "167",
-    "filename": "bucket_hats/CITRIA_Bucket_Hat_167.jpg",
-    "source_page": 30,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bucket_hats-168",
-    "category": "Bucket Hat",
-    "code": "168",
-    "filename": "bucket_hats/CITRIA_Bucket_Hat_168.jpg",
-    "source_page": 30,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bucket_hats-170",
-    "category": "Bucket Hat",
-    "code": "170",
-    "filename": "bucket_hats/CITRIA_Bucket_Hat_170.jpg",
-    "source_page": 30,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bucket_hats-172",
-    "category": "Bucket Hat",
-    "code": "172",
-    "filename": "bucket_hats/CITRIA_Bucket_Hat_172.jpg",
-    "source_page": 30,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bucket_hats-169",
-    "category": "Bucket Hat",
-    "code": "169",
-    "filename": "bucket_hats/CITRIA_Bucket_Hat_169.jpg",
-    "source_page": 30,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bucket_hats-171",
-    "category": "Bucket Hat",
-    "code": "171",
-    "filename": "bucket_hats/CITRIA_Bucket_Hat_171.jpg",
-    "source_page": 30,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bucket_hats-173",
-    "category": "Bucket Hat",
-    "code": "173",
-    "filename": "bucket_hats/CITRIA_Bucket_Hat_173.jpg",
-    "source_page": 30,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bucket_hats-174",
-    "category": "Bucket Hat",
-    "code": "174",
-    "filename": "bucket_hats/CITRIA_Bucket_Hat_174.jpg",
-    "source_page": 31,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bucket_hats-176",
-    "category": "Bucket Hat",
-    "code": "176",
-    "filename": "bucket_hats/CITRIA_Bucket_Hat_176.jpg",
-    "source_page": 31,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bucket_hats-178",
-    "category": "Bucket Hat",
-    "code": "178",
-    "filename": "bucket_hats/CITRIA_Bucket_Hat_178.jpg",
-    "source_page": 31,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bucket_hats-179",
-    "category": "Bucket Hat",
-    "code": "179",
-    "filename": "bucket_hats/CITRIA_Bucket_Hat_179.jpg",
-    "source_page": 31,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bucket_hats-177",
-    "category": "Bucket Hat",
-    "code": "177",
-    "filename": "bucket_hats/CITRIA_Bucket_Hat_177.jpg",
-    "source_page": 31,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "bucket_hats-175",
-    "category": "Bucket Hat",
-    "code": "175",
-    "filename": "bucket_hats/CITRIA_Bucket_Hat_175.jpg",
-    "source_page": 31,
-    "duplicate_code": false,
-    "note": ""
-  },
-  {
-    "product_id": "pareo-handmade-personalizado",
-    "category": "Pareo Handmade",
+    "id": "carteras_miyuki-001",
+    "code": "#001",
+    "name": "Cartera Miyuki #001",
+    "category": "Carteras Miyuki",
+    "price": 160,
+    "image": "/assets/citria/products/carteras_miyuki/CITRIA_Cartera_Miyuki_001.png",
+    "sourcePage": 4
+  },
+  {
+    "id": "carteras_miyuki-002",
+    "code": "#002",
+    "name": "Cartera Miyuki #002",
+    "category": "Carteras Miyuki",
+    "price": 160,
+    "image": "/assets/citria/products/carteras_miyuki/CITRIA_Cartera_Miyuki_002.png",
+    "sourcePage": 4
+  },
+  {
+    "id": "carteras_miyuki-003",
+    "code": "#003",
+    "name": "Cartera Miyuki #003",
+    "category": "Carteras Miyuki",
+    "price": 160,
+    "image": "/assets/citria/products/carteras_miyuki/CITRIA_Cartera_Miyuki_003.png",
+    "sourcePage": 4
+  },
+  {
+    "id": "carteras_miyuki-004",
+    "code": "#004",
+    "name": "Cartera Miyuki #004",
+    "category": "Carteras Miyuki",
+    "price": 160,
+    "image": "/assets/citria/products/carteras_miyuki/CITRIA_Cartera_Miyuki_004.png",
+    "sourcePage": 4
+  },
+  {
+    "id": "carteras_miyuki-005",
+    "code": "#005",
+    "name": "Cartera Miyuki #005",
+    "category": "Carteras Miyuki",
+    "price": 160,
+    "image": "/assets/citria/products/carteras_miyuki/CITRIA_Cartera_Miyuki_005.png",
+    "sourcePage": 5
+  },
+  {
+    "id": "carteras_miyuki-006",
+    "code": "#006",
+    "name": "Cartera Miyuki #006",
+    "category": "Carteras Miyuki",
+    "price": 160,
+    "image": "/assets/citria/products/carteras_miyuki/CITRIA_Cartera_Miyuki_006.png",
+    "sourcePage": 5
+  },
+  {
+    "id": "carteras_miyuki-007",
+    "code": "#007",
+    "name": "Cartera Miyuki #007",
+    "category": "Carteras Miyuki",
+    "price": 160,
+    "image": "/assets/citria/products/carteras_miyuki/CITRIA_Cartera_Miyuki_007.png",
+    "sourcePage": 5
+  },
+  {
+    "id": "carteras_miyuki-008",
+    "code": "#008",
+    "name": "Cartera Miyuki #008",
+    "category": "Carteras Miyuki",
+    "price": 160,
+    "image": "/assets/citria/products/carteras_miyuki/CITRIA_Cartera_Miyuki_008.png",
+    "sourcePage": 5
+  },
+  {
+    "id": "carteras_miyuki-009",
+    "code": "#009",
+    "name": "Cartera Miyuki #009",
+    "category": "Carteras Miyuki",
+    "price": 160,
+    "image": "/assets/citria/products/carteras_miyuki/CITRIA_Cartera_Miyuki_009.png",
+    "sourcePage": 5
+  },
+  {
+    "id": "carteras_miyuki-010",
+    "code": "#010",
+    "name": "Cartera Miyuki #010",
+    "category": "Carteras Miyuki",
+    "price": 160,
+    "image": "/assets/citria/products/carteras_miyuki/CITRIA_Cartera_Miyuki_010.png",
+    "sourcePage": 5
+  },
+  {
+    "id": "carteras_miyuki-011",
+    "code": "#011",
+    "name": "Cartera Miyuki #011",
+    "category": "Carteras Miyuki",
+    "price": 160,
+    "image": "/assets/citria/products/carteras_miyuki/CITRIA_Cartera_Miyuki_011.png",
+    "sourcePage": 6
+  },
+  {
+    "id": "carteras_miyuki-012",
+    "code": "#012",
+    "name": "Cartera Miyuki #012",
+    "category": "Carteras Miyuki",
+    "price": 160,
+    "image": "/assets/citria/products/carteras_miyuki/CITRIA_Cartera_Miyuki_012.png",
+    "sourcePage": 6
+  },
+  {
+    "id": "carteras_miyuki-013",
+    "code": "#013",
+    "name": "Cartera Miyuki #013",
+    "category": "Carteras Miyuki",
+    "price": 160,
+    "image": "/assets/citria/products/carteras_miyuki/CITRIA_Cartera_Miyuki_013.png",
+    "sourcePage": 6
+  },
+  {
+    "id": "carteras_miyuki-014",
+    "code": "#014",
+    "name": "Cartera Miyuki #014",
+    "category": "Carteras Miyuki",
+    "price": 160,
+    "image": "/assets/citria/products/carteras_miyuki/CITRIA_Cartera_Miyuki_014.png",
+    "sourcePage": 6
+  },
+  {
+    "id": "carteras_miyuki-015",
+    "code": "#015",
+    "name": "Cartera Miyuki #015",
+    "category": "Carteras Miyuki",
+    "price": 160,
+    "image": "/assets/citria/products/carteras_miyuki/CITRIA_Cartera_Miyuki_015.png",
+    "sourcePage": 6
+  },
+  {
+    "id": "carteras_miyuki-016",
+    "code": "#016",
+    "name": "Cartera Miyuki #016",
+    "category": "Carteras Miyuki",
+    "price": 160,
+    "image": "/assets/citria/products/carteras_miyuki/CITRIA_Cartera_Miyuki_016.png",
+    "sourcePage": 6
+  },
+  {
+    "id": "carteras_miyuki-017",
+    "code": "#017",
+    "name": "Cartera Miyuki #017",
+    "category": "Carteras Miyuki",
+    "price": 160,
+    "image": "/assets/citria/products/carteras_miyuki/CITRIA_Cartera_Miyuki_017.png",
+    "sourcePage": 7
+  },
+  {
+    "id": "carteras_miyuki-018",
+    "code": "#018",
+    "name": "Cartera Miyuki #018",
+    "category": "Carteras Miyuki",
+    "price": 160,
+    "image": "/assets/citria/products/carteras_miyuki/CITRIA_Cartera_Miyuki_018.png",
+    "sourcePage": 7
+  },
+  {
+    "id": "carteras_miyuki-019",
+    "code": "#019",
+    "name": "Cartera Miyuki #019",
+    "category": "Carteras Miyuki",
+    "price": 160,
+    "image": "/assets/citria/products/carteras_miyuki/CITRIA_Cartera_Miyuki_019.png",
+    "sourcePage": 7
+  },
+  {
+    "id": "carteras_miyuki-020",
+    "code": "#020",
+    "name": "Cartera Miyuki #020",
+    "category": "Carteras Miyuki",
+    "price": 160,
+    "image": "/assets/citria/products/carteras_miyuki/CITRIA_Cartera_Miyuki_020.png",
+    "sourcePage": 7
+  },
+  {
+    "id": "carteras_miyuki-021",
+    "code": "#021",
+    "name": "Cartera Miyuki #021",
+    "category": "Carteras Miyuki",
+    "price": 160,
+    "image": "/assets/citria/products/carteras_miyuki/CITRIA_Cartera_Miyuki_021.png",
+    "sourcePage": 7
+  },
+  {
+    "id": "carteras_miyuki-022",
+    "code": "#022",
+    "name": "Cartera Miyuki #022",
+    "category": "Carteras Miyuki",
+    "price": 160,
+    "image": "/assets/citria/products/carteras_miyuki/CITRIA_Cartera_Miyuki_022.png",
+    "sourcePage": 7
+  },
+  {
+    "id": "carteras_miyuki-023",
+    "code": "#023",
+    "name": "Cartera Miyuki #023",
+    "category": "Carteras Miyuki",
+    "price": 160,
+    "image": "/assets/citria/products/carteras_miyuki/CITRIA_Cartera_Miyuki_023.png",
+    "sourcePage": 8
+  },
+  {
+    "id": "carteras_miyuki-024",
+    "code": "#024",
+    "name": "Cartera Miyuki #024",
+    "category": "Carteras Miyuki",
+    "price": 160,
+    "image": "/assets/citria/products/carteras_miyuki/CITRIA_Cartera_Miyuki_024.png",
+    "sourcePage": 8
+  },
+  {
+    "id": "carteras_miyuki-025",
+    "code": "#025",
+    "name": "Cartera Miyuki #025",
+    "category": "Carteras Miyuki",
+    "price": 160,
+    "image": "/assets/citria/products/carteras_miyuki/CITRIA_Cartera_Miyuki_025.png",
+    "sourcePage": 8
+  },
+  {
+    "id": "carteras_miyuki-026",
+    "code": "#026",
+    "name": "Cartera Miyuki #026",
+    "category": "Carteras Miyuki",
+    "price": 160,
+    "image": "/assets/citria/products/carteras_miyuki/CITRIA_Cartera_Miyuki_026.png",
+    "sourcePage": 8
+  },
+  {
+    "id": "carteras_miyuki-027",
+    "code": "#027",
+    "name": "Cartera Miyuki #027",
+    "category": "Carteras Miyuki",
+    "price": 160,
+    "image": "/assets/citria/products/carteras_miyuki/CITRIA_Cartera_Miyuki_027.png",
+    "sourcePage": 8
+  },
+  {
+    "id": "carteras_miyuki-028",
+    "code": "#028",
+    "name": "Cartera Miyuki #028",
+    "category": "Carteras Miyuki",
+    "price": null,
+    "image": "/assets/citria/products/carteras_miyuki/CITRIA_Cartera_Miyuki_028.png",
+    "sourcePage": 8
+  },
+  {
+    "id": "pareo-handmade",
     "code": "",
-    "filename": "pareo_handmade/CITRIA_Pareo_Handmade_Personalizado.jpg",
-    "source_page": 13,
-    "duplicate_code": false,
-    "note": "El catálogo lo presenta como color y diseño personalizado."
+    "name": "Pareo Handmade — Color y diseño personalizado",
+    "category": "Pareo Handmade",
+    "price": 72,
+    "image": "/assets/citria/products/pareo_handmade/CITRIA_Pareo_Handmade_Personalizado.png",
+    "sourcePage": 9
   },
   {
-    "product_id": "franela-custom-01",
-    "category": "Franela Custom",
-    "code": "01",
-    "filename": "franelas_custom/CITRIA_Franela_Custom_01.jpg",
-    "source_page": 32,
-    "duplicate_code": false,
-    "note": "Modelo sin código visible en el catálogo; numerado secuencialmente para integración web."
+    "id": "bandoleros_miyuki-050",
+    "code": "#050",
+    "name": "Bandolero Miyuki #050",
+    "category": "Bandoleros Miyuki",
+    "price": 85,
+    "image": "/assets/citria/products/bandoleros_miyuki/CITRIA_Bandolero_Miyuki_050.png",
+    "sourcePage": 10
   },
   {
-    "product_id": "franela-custom-02",
-    "category": "Franela Custom",
-    "code": "02",
-    "filename": "franelas_custom/CITRIA_Franela_Custom_02.jpg",
-    "source_page": 32,
-    "duplicate_code": false,
-    "note": "Modelo sin código visible en el catálogo; numerado secuencialmente para integración web."
+    "id": "bandoleros_miyuki-051",
+    "code": "#051",
+    "name": "Bandolero Miyuki #051",
+    "category": "Bandoleros Miyuki",
+    "price": 85,
+    "image": "/assets/citria/products/bandoleros_miyuki/CITRIA_Bandolero_Miyuki_051.png",
+    "sourcePage": 10
   },
   {
-    "product_id": "franela-custom-03",
-    "category": "Franela Custom",
-    "code": "03",
-    "filename": "franelas_custom/CITRIA_Franela_Custom_03.jpg",
-    "source_page": 32,
-    "duplicate_code": false,
-    "note": "Modelo sin código visible en el catálogo; numerado secuencialmente para integración web."
+    "id": "bandoleros_miyuki-052",
+    "code": "#052",
+    "name": "Bandolero Miyuki #052",
+    "category": "Bandoleros Miyuki",
+    "price": 82,
+    "image": "/assets/citria/products/bandoleros_miyuki/CITRIA_Bandolero_Miyuki_052.png",
+    "sourcePage": 10
   },
   {
-    "product_id": "franela-custom-04",
-    "category": "Franela Custom",
-    "code": "04",
-    "filename": "franelas_custom/CITRIA_Franela_Custom_04.jpg",
-    "source_page": 32,
-    "duplicate_code": false,
-    "note": "Modelo sin código visible en el catálogo; numerado secuencialmente para integración web."
+    "id": "bandoleros_miyuki-053",
+    "code": "#053",
+    "name": "Bandolero Miyuki #053",
+    "category": "Bandoleros Miyuki",
+    "price": 82,
+    "image": "/assets/citria/products/bandoleros_miyuki/CITRIA_Bandolero_Miyuki_053.png",
+    "sourcePage": 10
   },
   {
-    "product_id": "franela-custom-05",
-    "category": "Franela Custom",
-    "code": "05",
-    "filename": "franelas_custom/CITRIA_Franela_Custom_05.jpg",
-    "source_page": 32,
-    "duplicate_code": false,
-    "note": "Modelo sin código visible en el catálogo; numerado secuencialmente para integración web."
+    "id": "bandoleros_miyuki-054",
+    "code": "#054",
+    "name": "Bandolero Miyuki #054",
+    "category": "Bandoleros Miyuki",
+    "price": 95,
+    "image": "/assets/citria/products/bandoleros_miyuki/CITRIA_Bandolero_Miyuki_054.png",
+    "sourcePage": 11
   },
   {
-    "product_id": "franela-custom-06",
-    "category": "Franela Custom",
-    "code": "06",
-    "filename": "franelas_custom/CITRIA_Franela_Custom_06.jpg",
-    "source_page": 32,
-    "duplicate_code": false,
-    "note": "Modelo sin código visible en el catálogo; numerado secuencialmente para integración web."
+    "id": "bandoleros_miyuki-055",
+    "code": "#055",
+    "name": "Bandolero Miyuki #055",
+    "category": "Bandoleros Miyuki",
+    "price": 125,
+    "image": "/assets/citria/products/bandoleros_miyuki/CITRIA_Bandolero_Miyuki_055.png",
+    "sourcePage": 11
   },
   {
-    "product_id": "franela-custom-07",
-    "category": "Franela Custom",
-    "code": "07",
-    "filename": "franelas_custom/CITRIA_Franela_Custom_07.jpg",
-    "source_page": 32,
-    "duplicate_code": false,
-    "note": "Modelo sin código visible en el catálogo; numerado secuencialmente para integración web."
+    "id": "bandoleros_miyuki-056",
+    "code": "#056",
+    "name": "Bandolero Miyuki #056",
+    "category": "Bandoleros Miyuki",
+    "price": 65,
+    "image": "/assets/citria/products/bandoleros_miyuki/CITRIA_Bandolero_Miyuki_056.png",
+    "sourcePage": 11
   },
   {
-    "product_id": "franela-custom-08",
-    "category": "Franela Custom",
-    "code": "08",
-    "filename": "franelas_custom/CITRIA_Franela_Custom_08.jpg",
-    "source_page": 32,
-    "duplicate_code": false,
-    "note": "Modelo sin código visible en el catálogo; numerado secuencialmente para integración web."
+    "id": "bandoleros_miyuki-057",
+    "code": "#057",
+    "name": "Bandolero Miyuki #057",
+    "category": "Bandoleros Miyuki",
+    "price": 95,
+    "image": "/assets/citria/products/bandoleros_miyuki/CITRIA_Bandolero_Miyuki_057.png",
+    "sourcePage": 11
   },
   {
-    "product_id": "franela-custom-09",
-    "category": "Franela Custom",
-    "code": "09",
-    "filename": "franelas_custom/CITRIA_Franela_Custom_09.jpg",
-    "source_page": 33,
-    "duplicate_code": false,
-    "note": "Modelo sin código visible en el catálogo; numerado secuencialmente para integración web."
+    "id": "bandoleros_miyuki-058",
+    "code": "#058",
+    "name": "Bandolero Miyuki #058",
+    "category": "Bandoleros Miyuki",
+    "price": 95,
+    "image": "/assets/citria/products/bandoleros_miyuki/CITRIA_Bandolero_Miyuki_058.png",
+    "sourcePage": 11
   },
   {
-    "product_id": "franela-custom-10",
-    "category": "Franela Custom",
-    "code": "10",
-    "filename": "franelas_custom/CITRIA_Franela_Custom_10.jpg",
-    "source_page": 33,
-    "duplicate_code": false,
-    "note": "Modelo sin código visible en el catálogo; numerado secuencialmente para integración web."
+    "id": "bandoleros_miyuki-059",
+    "code": "#059",
+    "name": "Bandolero Miyuki #059",
+    "category": "Bandoleros Miyuki",
+    "price": 95,
+    "image": "/assets/citria/products/bandoleros_miyuki/CITRIA_Bandolero_Miyuki_059.png",
+    "sourcePage": 11
   },
   {
-    "product_id": "franela-custom-11",
-    "category": "Franela Custom",
-    "code": "11",
-    "filename": "franelas_custom/CITRIA_Franela_Custom_11.jpg",
-    "source_page": 33,
-    "duplicate_code": false,
-    "note": "Modelo sin código visible en el catálogo; numerado secuencialmente para integración web."
+    "id": "bandoleros_miyuki-060",
+    "code": "#060",
+    "name": "Bandolero Miyuki #060",
+    "category": "Bandoleros Miyuki",
+    "price": 95,
+    "image": "/assets/citria/products/bandoleros_miyuki/CITRIA_Bandolero_Miyuki_060.png",
+    "sourcePage": 12
   },
   {
-    "product_id": "franela-custom-12",
-    "category": "Franela Custom",
-    "code": "12",
-    "filename": "franelas_custom/CITRIA_Franela_Custom_12.jpg",
-    "source_page": 33,
-    "duplicate_code": false,
-    "note": "Modelo sin código visible en el catálogo; numerado secuencialmente para integración web."
+    "id": "bandoleros_miyuki-061",
+    "code": "#061",
+    "name": "Bandolero Miyuki #061",
+    "category": "Bandoleros Miyuki",
+    "price": 95,
+    "image": "/assets/citria/products/bandoleros_miyuki/CITRIA_Bandolero_Miyuki_061.png",
+    "sourcePage": 12
   },
   {
-    "product_id": "franela-custom-13",
-    "category": "Franela Custom",
-    "code": "13",
-    "filename": "franelas_custom/CITRIA_Franela_Custom_13.jpg",
-    "source_page": 33,
-    "duplicate_code": false,
-    "note": "Modelo sin código visible en el catálogo; numerado secuencialmente para integración web."
+    "id": "bandoleros_miyuki-062",
+    "code": "#062",
+    "name": "Bandolero Miyuki #062",
+    "category": "Bandoleros Miyuki",
+    "price": 125,
+    "image": "/assets/citria/products/bandoleros_miyuki/CITRIA_Bandolero_Miyuki_062.png",
+    "sourcePage": 12
   },
   {
-    "product_id": "franela-custom-14",
-    "category": "Franela Custom",
-    "code": "14",
-    "filename": "franelas_custom/CITRIA_Franela_Custom_14.jpg",
-    "source_page": 33,
-    "duplicate_code": false,
-    "note": "Modelo sin código visible en el catálogo; numerado secuencialmente para integración web."
+    "id": "bandoleros_miyuki-063",
+    "code": "#063",
+    "name": "Bandolero Miyuki #063",
+    "category": "Bandoleros Miyuki",
+    "price": 125,
+    "image": "/assets/citria/products/bandoleros_miyuki/CITRIA_Bandolero_Miyuki_063.png",
+    "sourcePage": 12
   },
   {
-    "product_id": "franela-custom-15",
-    "category": "Franela Custom",
-    "code": "15",
-    "filename": "franelas_custom/CITRIA_Franela_Custom_15.jpg",
-    "source_page": 33,
-    "duplicate_code": false,
-    "note": "Modelo sin código visible en el catálogo; numerado secuencialmente para integración web."
+    "id": "bandoleros_miyuki-064",
+    "code": "#064",
+    "name": "Bandolero Miyuki #064",
+    "category": "Bandoleros Miyuki",
+    "price": 125,
+    "image": "/assets/citria/products/bandoleros_miyuki/CITRIA_Bandolero_Miyuki_064.png",
+    "sourcePage": 12
   },
   {
-    "product_id": "franela-custom-16",
-    "category": "Franela Custom",
-    "code": "16",
-    "filename": "franelas_custom/CITRIA_Franela_Custom_16.jpg",
-    "source_page": 33,
-    "duplicate_code": false,
-    "note": "Modelo sin código visible en el catálogo; numerado secuencialmente para integración web."
+    "id": "bandoleros_miyuki-065",
+    "code": "#065",
+    "name": "Bandolero Miyuki #065",
+    "category": "Bandoleros Miyuki",
+    "price": 125,
+    "image": "/assets/citria/products/bandoleros_miyuki/CITRIA_Bandolero_Miyuki_065.png",
+    "sourcePage": 12
   },
   {
-    "product_id": "franela-custom-17",
-    "category": "Franela Custom",
-    "code": "17",
-    "filename": "franelas_custom/CITRIA_Franela_Custom_17.jpg",
-    "source_page": 33,
-    "duplicate_code": false,
-    "note": "Modelo sin código visible en el catálogo; numerado secuencialmente para integración web."
+    "id": "bandoleros_miyuki-066",
+    "code": "#066",
+    "name": "Bandolero Miyuki #066",
+    "category": "Bandoleros Miyuki",
+    "price": 125,
+    "image": "/assets/citria/products/bandoleros_miyuki/CITRIA_Bandolero_Miyuki_066.png",
+    "sourcePage": 13
   },
   {
-    "product_id": "franela-custom-18",
-    "category": "Franela Custom",
-    "code": "18",
-    "filename": "franelas_custom/CITRIA_Franela_Custom_18.jpg",
-    "source_page": 33,
-    "duplicate_code": false,
-    "note": "Modelo sin código visible en el catálogo; numerado secuencialmente para integración web."
+    "id": "bandoleros_miyuki-067",
+    "code": "#067",
+    "name": "Bandolero Miyuki #067",
+    "category": "Bandoleros Miyuki",
+    "price": 125,
+    "image": "/assets/citria/products/bandoleros_miyuki/CITRIA_Bandolero_Miyuki_067.png",
+    "sourcePage": 13
   },
   {
-    "product_id": "franela-custom-19",
-    "category": "Franela Custom",
-    "code": "19",
-    "filename": "franelas_custom/CITRIA_Franela_Custom_19.jpg",
-    "source_page": 34,
-    "duplicate_code": false,
-    "note": "Modelo sin código visible en el catálogo; numerado secuencialmente para integración web."
+    "id": "bandoleros_miyuki-068",
+    "code": "#068",
+    "name": "Bandolero Miyuki #068",
+    "category": "Bandoleros Miyuki",
+    "price": 125,
+    "image": "/assets/citria/products/bandoleros_miyuki/CITRIA_Bandolero_Miyuki_068.png",
+    "sourcePage": 13
   },
   {
-    "product_id": "franela-custom-20",
-    "category": "Franela Custom",
-    "code": "20",
-    "filename": "franelas_custom/CITRIA_Franela_Custom_20.jpg",
-    "source_page": 34,
-    "duplicate_code": false,
-    "note": "Modelo sin código visible en el catálogo; numerado secuencialmente para integración web."
+    "id": "bandoleros_miyuki-069",
+    "code": "#069",
+    "name": "Bandolero Miyuki #069",
+    "category": "Bandoleros Miyuki",
+    "price": 125,
+    "image": "/assets/citria/products/bandoleros_miyuki/CITRIA_Bandolero_Miyuki_069.png",
+    "sourcePage": 13
   },
   {
-    "product_id": "franela-custom-21",
-    "category": "Franela Custom",
-    "code": "21",
-    "filename": "franelas_custom/CITRIA_Franela_Custom_21.jpg",
-    "source_page": 34,
-    "duplicate_code": false,
-    "note": "Modelo sin código visible en el catálogo; numerado secuencialmente para integración web."
+    "id": "bandoleros_miyuki-070",
+    "code": "#070",
+    "name": "Bandolero Miyuki #070",
+    "category": "Bandoleros Miyuki",
+    "price": 125,
+    "image": "/assets/citria/products/bandoleros_miyuki/CITRIA_Bandolero_Miyuki_070.png",
+    "sourcePage": 13
   },
   {
-    "product_id": "franela-custom-22",
-    "category": "Franela Custom",
-    "code": "22",
-    "filename": "franelas_custom/CITRIA_Franela_Custom_22.jpg",
-    "source_page": 34,
-    "duplicate_code": false,
-    "note": "Modelo sin código visible en el catálogo; numerado secuencialmente para integración web."
+    "id": "bandoleros_miyuki-071",
+    "code": "#071",
+    "name": "Bandolero Miyuki #071",
+    "category": "Bandoleros Miyuki",
+    "price": null,
+    "image": "/assets/citria/products/bandoleros_miyuki/CITRIA_Bandolero_Miyuki_071.png",
+    "sourcePage": 13
   },
   {
-    "product_id": "franela-custom-23",
-    "category": "Franela Custom",
-    "code": "23",
-    "filename": "franelas_custom/CITRIA_Franela_Custom_23.jpg",
-    "source_page": 34,
-    "duplicate_code": false,
-    "note": "Modelo sin código visible en el catálogo; numerado secuencialmente para integración web."
+    "id": "lentes_oval-083",
+    "code": "#083",
+    "name": "Lente Oval #083",
+    "category": "Lentes Oval",
+    "price": 20,
+    "image": "/assets/citria/products/lentes_oval/CITRIA_Lente_Oval_083.png",
+    "sourcePage": 14
   },
   {
-    "product_id": "franela-custom-24",
-    "category": "Franela Custom",
-    "code": "24",
-    "filename": "franelas_custom/CITRIA_Franela_Custom_24.jpg",
-    "source_page": 34,
-    "duplicate_code": false,
-    "note": "Modelo sin código visible en el catálogo; numerado secuencialmente para integración web."
+    "id": "lentes_oval-084",
+    "code": "#084",
+    "name": "Lente Oval #084",
+    "category": "Lentes Oval",
+    "price": 20,
+    "image": "/assets/citria/products/lentes_oval/CITRIA_Lente_Oval_084.png",
+    "sourcePage": 14
   },
   {
-    "product_id": "franela-custom-25",
-    "category": "Franela Custom",
-    "code": "25",
-    "filename": "franelas_custom/CITRIA_Franela_Custom_25.jpg",
-    "source_page": 34,
-    "duplicate_code": false,
-    "note": "Modelo sin código visible en el catálogo; numerado secuencialmente para integración web."
+    "id": "lentes_oval-085",
+    "code": "#085",
+    "name": "Lente Oval #085",
+    "category": "Lentes Oval",
+    "price": 20,
+    "image": "/assets/citria/products/lentes_oval/CITRIA_Lente_Oval_085.png",
+    "sourcePage": 14
   },
   {
-    "product_id": "franela-custom-26",
-    "category": "Franela Custom",
-    "code": "26",
-    "filename": "franelas_custom/CITRIA_Franela_Custom_26.jpg",
-    "source_page": 34,
-    "duplicate_code": false,
-    "note": "Modelo sin código visible en el catálogo; numerado secuencialmente para integración web."
+    "id": "lentes_oval-086",
+    "code": "#086",
+    "name": "Lente Oval #086",
+    "category": "Lentes Oval",
+    "price": 20,
+    "image": "/assets/citria/products/lentes_oval/CITRIA_Lente_Oval_086.png",
+    "sourcePage": 14
   },
   {
-    "product_id": "franela-custom-27",
-    "category": "Franela Custom",
-    "code": "27",
-    "filename": "franelas_custom/CITRIA_Franela_Custom_27.jpg",
-    "source_page": 34,
-    "duplicate_code": false,
-    "note": "Modelo sin código visible en el catálogo; numerado secuencialmente para integración web."
+    "id": "lentes_oval-087",
+    "code": "#087",
+    "name": "Lente Oval #087",
+    "category": "Lentes Oval",
+    "price": 20,
+    "image": "/assets/citria/products/lentes_oval/CITRIA_Lente_Oval_087.png",
+    "sourcePage": 14
   },
   {
-    "product_id": "franela-custom-28",
-    "category": "Franela Custom",
-    "code": "28",
-    "filename": "franelas_custom/CITRIA_Franela_Custom_28.jpg",
-    "source_page": 34,
-    "duplicate_code": false,
-    "note": "Modelo sin código visible en el catálogo; numerado secuencialmente para integración web."
+    "id": "lentes_oval-088",
+    "code": "#088",
+    "name": "Lente Oval #088",
+    "category": "Lentes Oval",
+    "price": 20,
+    "image": "/assets/citria/products/lentes_oval/CITRIA_Lente_Oval_088.png",
+    "sourcePage": 14
   },
   {
-    "product_id": "franela-custom-29",
-    "category": "Franela Custom",
-    "code": "29",
-    "filename": "franelas_custom/CITRIA_Franela_Custom_29.jpg",
-    "source_page": 35,
-    "duplicate_code": false,
-    "note": "Modelo sin código visible en el catálogo; numerado secuencialmente para integración web."
+    "id": "lentes_oval-089",
+    "code": "#089",
+    "name": "Lente Oval #089",
+    "category": "Lentes Oval",
+    "price": 20,
+    "image": "/assets/citria/products/lentes_oval/CITRIA_Lente_Oval_089.png",
+    "sourcePage": 14
   },
   {
-    "product_id": "franela-custom-30",
-    "category": "Franela Custom",
-    "code": "30",
-    "filename": "franelas_custom/CITRIA_Franela_Custom_30.jpg",
-    "source_page": 35,
-    "duplicate_code": false,
-    "note": "Modelo sin código visible en el catálogo; numerado secuencialmente para integración web."
+    "id": "lentes_oval-090",
+    "code": "#090",
+    "name": "Lente Oval #090",
+    "category": "Lentes Oval",
+    "price": 20,
+    "image": "/assets/citria/products/lentes_oval/CITRIA_Lente_Oval_090.png",
+    "sourcePage": 14
   },
   {
-    "product_id": "franela-custom-31",
-    "category": "Franela Custom",
-    "code": "31",
-    "filename": "franelas_custom/CITRIA_Franela_Custom_31.jpg",
-    "source_page": 35,
-    "duplicate_code": false,
-    "note": "Modelo sin código visible en el catálogo; numerado secuencialmente para integración web."
+    "id": "lentes_oval-091",
+    "code": "#091",
+    "name": "Lente Oval #091",
+    "category": "Lentes Oval",
+    "price": 20,
+    "image": "/assets/citria/products/lentes_oval/CITRIA_Lente_Oval_091.png",
+    "sourcePage": 14
   },
   {
-    "product_id": "franela-custom-32",
-    "category": "Franela Custom",
-    "code": "32",
-    "filename": "franelas_custom/CITRIA_Franela_Custom_32.jpg",
-    "source_page": 35,
-    "duplicate_code": false,
-    "note": "Modelo sin código visible en el catálogo; numerado secuencialmente para integración web."
+    "id": "lentes_oval-092",
+    "code": "#092",
+    "name": "Lente Oval #092",
+    "category": "Lentes Oval",
+    "price": 20,
+    "image": "/assets/citria/products/lentes_oval/CITRIA_Lente_Oval_092.png",
+    "sourcePage": 14
+  },
+  {
+    "id": "lentes_oval-093",
+    "code": "#093",
+    "name": "Lente Oval #093",
+    "category": "Lentes Oval",
+    "price": 20,
+    "image": "/assets/citria/products/lentes_oval/CITRIA_Lente_Oval_093.png",
+    "sourcePage": 14
+  },
+  {
+    "id": "lentes_oval-094",
+    "code": "#094",
+    "name": "Lente Oval #094",
+    "category": "Lentes Oval",
+    "price": 35,
+    "image": "/assets/citria/products/lentes_oval/CITRIA_Lente_Oval_094.png",
+    "sourcePage": 14
+  },
+  {
+    "id": "lentes_oval-095",
+    "code": "#095",
+    "name": "Lente Oval #095",
+    "category": "Lentes Oval",
+    "price": 35,
+    "image": "/assets/citria/products/lentes_oval/CITRIA_Lente_Oval_095.png",
+    "sourcePage": 15
+  },
+  {
+    "id": "lentes_oval-096",
+    "code": "#096",
+    "name": "Lente Oval #096",
+    "category": "Lentes Oval",
+    "price": 20,
+    "image": "/assets/citria/products/lentes_oval/CITRIA_Lente_Oval_096.png",
+    "sourcePage": 15
+  },
+  {
+    "id": "lentes_oval-097",
+    "code": "#097",
+    "name": "Lente Oval #097",
+    "category": "Lentes Oval",
+    "price": 35,
+    "image": "/assets/citria/products/lentes_oval/CITRIA_Lente_Oval_097.png",
+    "sourcePage": 15
+  },
+  {
+    "id": "lentes_oval-098",
+    "code": "#098",
+    "name": "Lente Oval #098",
+    "category": "Lentes Oval",
+    "price": 20,
+    "image": "/assets/citria/products/lentes_oval/CITRIA_Lente_Oval_098.png",
+    "sourcePage": 15
+  },
+  {
+    "id": "lentes_oval-099",
+    "code": "#099",
+    "name": "Lente Oval #099",
+    "category": "Lentes Oval",
+    "price": 35,
+    "image": "/assets/citria/products/lentes_oval/CITRIA_Lente_Oval_099.png",
+    "sourcePage": 15
+  },
+  {
+    "id": "lentes_oval-100",
+    "code": "#100",
+    "name": "Lente Oval #100",
+    "category": "Lentes Oval",
+    "price": 20,
+    "image": "/assets/citria/products/lentes_oval/CITRIA_Lente_Oval_100.png",
+    "sourcePage": 15
+  },
+  {
+    "id": "lentes_oval-101",
+    "code": "#101",
+    "name": "Lente Oval #101",
+    "category": "Lentes Oval",
+    "price": 35,
+    "image": "/assets/citria/products/lentes_oval/CITRIA_Lente_Oval_101.png",
+    "sourcePage": 15
+  },
+  {
+    "id": "lentes_oval-102",
+    "code": "#102",
+    "name": "Lente Oval #102",
+    "category": "Lentes Oval",
+    "price": 20,
+    "image": "/assets/citria/products/lentes_oval/CITRIA_Lente_Oval_102.png",
+    "sourcePage": 15
+  },
+  {
+    "id": "lentes_oval-103",
+    "code": "#103",
+    "name": "Lente Oval #103",
+    "category": "Lentes Oval",
+    "price": 15,
+    "image": "/assets/citria/products/lentes_oval/CITRIA_Lente_Oval_103.png",
+    "sourcePage": 15
+  },
+  {
+    "id": "lentes_oval-104",
+    "code": "#104",
+    "name": "Lente Oval #104",
+    "category": "Lentes Oval",
+    "price": 35,
+    "image": "/assets/citria/products/lentes_oval/CITRIA_Lente_Oval_104.png",
+    "sourcePage": 15
+  },
+  {
+    "id": "lentes_oval-105",
+    "code": "#105",
+    "name": "Lente Oval #105",
+    "category": "Lentes Oval",
+    "price": 15,
+    "image": "/assets/citria/products/lentes_oval/CITRIA_Lente_Oval_105.png",
+    "sourcePage": 15
+  },
+  {
+    "id": "lentes_oval-106",
+    "code": "#106",
+    "name": "Lente Oval #106",
+    "category": "Lentes Oval",
+    "price": 35,
+    "image": "/assets/citria/products/lentes_oval/CITRIA_Lente_Oval_106.png",
+    "sourcePage": 15
+  },
+  {
+    "id": "lentes_oval-107",
+    "code": "#107",
+    "name": "Lente Oval #107",
+    "category": "Lentes Oval",
+    "price": 15,
+    "image": "/assets/citria/products/lentes_oval/CITRIA_Lente_Oval_107.png",
+    "sourcePage": 15
+  },
+  {
+    "id": "lentes_oval-108",
+    "code": "#108",
+    "name": "Lente Oval #108",
+    "category": "Lentes Oval",
+    "price": 35,
+    "image": "/assets/citria/products/lentes_oval/CITRIA_Lente_Oval_108.png",
+    "sourcePage": 15
+  },
+  {
+    "id": "otros_modelos_citria-149",
+    "code": "#149",
+    "name": "Otros CITRIA #149",
+    "category": "Otros CITRIA",
+    "price": 75,
+    "image": "/assets/citria/products/otros_modelos_citria/CITRIA_Otros_CITRIA_149.png",
+    "sourcePage": 16
+  },
+  {
+    "id": "otros_modelos_citria-150",
+    "code": "#150",
+    "name": "Otros CITRIA #150",
+    "category": "Otros CITRIA",
+    "price": 55,
+    "image": "/assets/citria/products/otros_modelos_citria/CITRIA_Otros_CITRIA_150.png",
+    "sourcePage": 16
+  },
+  {
+    "id": "otros_modelos_citria-151",
+    "code": "#151",
+    "name": "Otros CITRIA #151",
+    "category": "Otros CITRIA",
+    "price": 45,
+    "image": "/assets/citria/products/otros_modelos_citria/CITRIA_Otros_CITRIA_151.png",
+    "sourcePage": 16
+  },
+  {
+    "id": "otros_modelos_citria-152",
+    "code": "#152",
+    "name": "Otros CITRIA #152",
+    "category": "Otros CITRIA",
+    "price": 120,
+    "image": "/assets/citria/products/otros_modelos_citria/CITRIA_Otros_CITRIA_152.png",
+    "sourcePage": 16
+  },
+  {
+    "id": "otros_modelos_citria-153",
+    "code": "#153",
+    "name": "Otros CITRIA #153",
+    "category": "Otros CITRIA",
+    "price": 120,
+    "image": "/assets/citria/products/otros_modelos_citria/CITRIA_Otros_CITRIA_153.png",
+    "sourcePage": 16
+  },
+  {
+    "id": "otros_modelos_citria-154",
+    "code": "#154",
+    "name": "Otros CITRIA #154",
+    "category": "Otros CITRIA",
+    "price": 130,
+    "image": "/assets/citria/products/otros_modelos_citria/CITRIA_Otros_CITRIA_154.png",
+    "sourcePage": 16
+  },
+  {
+    "id": "otros_modelos_citria-155",
+    "code": "#155",
+    "name": "Otros CITRIA #155",
+    "category": "Otros CITRIA",
+    "price": 40,
+    "image": "/assets/citria/products/otros_modelos_citria/CITRIA_Otros_CITRIA_155.png",
+    "sourcePage": 17
+  },
+  {
+    "id": "otros_modelos_citria-156",
+    "code": "#156",
+    "name": "Otros CITRIA #156",
+    "category": "Otros CITRIA",
+    "price": 50,
+    "image": "/assets/citria/products/otros_modelos_citria/CITRIA_Otros_CITRIA_156.png",
+    "sourcePage": 17
+  },
+  {
+    "id": "otros_modelos_citria-157",
+    "code": "#157",
+    "name": "Otros CITRIA #157",
+    "category": "Otros CITRIA",
+    "price": 135,
+    "image": "/assets/citria/products/otros_modelos_citria/CITRIA_Otros_CITRIA_157.png",
+    "sourcePage": 17
+  },
+  {
+    "id": "otros_modelos_citria-158",
+    "code": "#158",
+    "name": "Otros CITRIA #158",
+    "category": "Otros CITRIA",
+    "price": 120,
+    "image": "/assets/citria/products/otros_modelos_citria/CITRIA_Otros_CITRIA_158.png",
+    "sourcePage": 17
+  },
+  {
+    "id": "otros_modelos_citria-159",
+    "code": "#159",
+    "name": "Otros CITRIA #159",
+    "category": "Otros CITRIA",
+    "price": 55,
+    "image": "/assets/citria/products/otros_modelos_citria/CITRIA_Otros_CITRIA_159.png",
+    "sourcePage": 17
+  },
+  {
+    "id": "otros_modelos_citria-160",
+    "code": "#160",
+    "name": "Otros CITRIA #160",
+    "category": "Otros CITRIA",
+    "price": 55,
+    "image": "/assets/citria/products/otros_modelos_citria/CITRIA_Otros_CITRIA_160.png",
+    "sourcePage": 17
+  },
+  {
+    "id": "otros_modelos_citria-161",
+    "code": "#161",
+    "name": "Otros CITRIA #161",
+    "category": "Otros CITRIA",
+    "price": 145,
+    "image": "/assets/citria/products/otros_modelos_citria/CITRIA_Otros_CITRIA_161.png",
+    "sourcePage": 17
+  },
+  {
+    "id": "otros_modelos_citria-162",
+    "code": "#162",
+    "name": "Otros CITRIA #162",
+    "category": "Otros CITRIA",
+    "price": 145,
+    "image": "/assets/citria/products/otros_modelos_citria/CITRIA_Otros_CITRIA_162.png",
+    "sourcePage": 17
+  },
+  {
+    "id": "otros_modelos_citria-163",
+    "code": "#163",
+    "name": "Otros CITRIA #163",
+    "category": "Otros CITRIA",
+    "price": 145,
+    "image": "/assets/citria/products/otros_modelos_citria/CITRIA_Otros_CITRIA_163.png",
+    "sourcePage": 18
+  },
+  {
+    "id": "otros_modelos_citria-164",
+    "code": "#164",
+    "name": "Otros CITRIA #164",
+    "category": "Otros CITRIA",
+    "price": 145,
+    "image": "/assets/citria/products/otros_modelos_citria/CITRIA_Otros_CITRIA_164.png",
+    "sourcePage": 18
+  },
+  {
+    "id": "otros_modelos_citria-165",
+    "code": "#165",
+    "name": "Otros CITRIA #165",
+    "category": "Otros CITRIA",
+    "price": 135,
+    "image": "/assets/citria/products/otros_modelos_citria/CITRIA_Otros_CITRIA_165.png",
+    "sourcePage": 18
+  },
+  {
+    "id": "otros_modelos_citria-180",
+    "code": "#180",
+    "name": "Otros CITRIA #180",
+    "category": "Otros CITRIA",
+    "price": 135,
+    "image": "/assets/citria/products/otros_modelos_citria/CITRIA_Otros_CITRIA_180.png",
+    "sourcePage": 18
+  },
+  {
+    "id": "otros_modelos_citria-181",
+    "code": "#181",
+    "name": "Otros CITRIA #181",
+    "category": "Otros CITRIA",
+    "price": 135,
+    "image": "/assets/citria/products/otros_modelos_citria/CITRIA_Otros_CITRIA_181.png",
+    "sourcePage": 18
+  },
+  {
+    "id": "otros_modelos_citria-182",
+    "code": "#182",
+    "name": "Otros CITRIA #182",
+    "category": "Otros CITRIA",
+    "price": 135,
+    "image": "/assets/citria/products/otros_modelos_citria/CITRIA_Otros_CITRIA_182.png",
+    "sourcePage": 18
+  },
+  {
+    "id": "otros_modelos_citria-189",
+    "code": "#189",
+    "name": "Otros CITRIA #189",
+    "category": "Otros CITRIA",
+    "price": 135,
+    "image": "/assets/citria/products/otros_modelos_citria/CITRIA_Otros_CITRIA_189.png",
+    "sourcePage": 18
+  },
+  {
+    "id": "otros_modelos_citria-190",
+    "code": "#190",
+    "name": "Otros CITRIA #190",
+    "category": "Otros CITRIA",
+    "price": null,
+    "image": null,
+    "sourcePage": 18
+  },
+  {
+    "id": "bucket_hats-166",
+    "code": "#166",
+    "name": "Bucket Hat #166",
+    "category": "Bucket Hats",
+    "price": 37,
+    "image": "/assets/citria/products/bucket_hats/CITRIA_Bucket_Hat_166.png",
+    "sourcePage": 19
+  },
+  {
+    "id": "bucket_hats-167",
+    "code": "#167",
+    "name": "Bucket Hat #167",
+    "category": "Bucket Hats",
+    "price": 37,
+    "image": "/assets/citria/products/bucket_hats/CITRIA_Bucket_Hat_167.png",
+    "sourcePage": 19
+  },
+  {
+    "id": "bucket_hats-168",
+    "code": "#168",
+    "name": "Bucket Hat #168",
+    "category": "Bucket Hats",
+    "price": 37,
+    "image": "/assets/citria/products/bucket_hats/CITRIA_Bucket_Hat_168.png",
+    "sourcePage": 19
+  },
+  {
+    "id": "bucket_hats-169",
+    "code": "#169",
+    "name": "Bucket Hat #169",
+    "category": "Bucket Hats",
+    "price": 37,
+    "image": "/assets/citria/products/bucket_hats/CITRIA_Bucket_Hat_169.png",
+    "sourcePage": 19
+  },
+  {
+    "id": "bucket_hats-170",
+    "code": "#170",
+    "name": "Bucket Hat #170",
+    "category": "Bucket Hats",
+    "price": 37,
+    "image": "/assets/citria/products/bucket_hats/CITRIA_Bucket_Hat_170.png",
+    "sourcePage": 19
+  },
+  {
+    "id": "bucket_hats-171",
+    "code": "#171",
+    "name": "Bucket Hat #171",
+    "category": "Bucket Hats",
+    "price": 37,
+    "image": "/assets/citria/products/bucket_hats/CITRIA_Bucket_Hat_171.png",
+    "sourcePage": 19
+  },
+  {
+    "id": "bucket_hats-172",
+    "code": "#172",
+    "name": "Bucket Hat #172",
+    "category": "Bucket Hats",
+    "price": 37,
+    "image": "/assets/citria/products/bucket_hats/CITRIA_Bucket_Hat_172.png",
+    "sourcePage": 19
+  },
+  {
+    "id": "bucket_hats-173",
+    "code": "#173",
+    "name": "Bucket Hat #173",
+    "category": "Bucket Hats",
+    "price": 48,
+    "image": "/assets/citria/products/bucket_hats/CITRIA_Bucket_Hat_173.png",
+    "sourcePage": 19
+  },
+  {
+    "id": "bucket_hats-174",
+    "code": "#174",
+    "name": "Bucket Hat #174",
+    "category": "Bucket Hats",
+    "price": 38,
+    "image": "/assets/citria/products/bucket_hats/CITRIA_Bucket_Hat_174.png",
+    "sourcePage": 20
+  },
+  {
+    "id": "bucket_hats-175",
+    "code": "#175",
+    "name": "Bucket Hat #175",
+    "category": "Bucket Hats",
+    "price": 38,
+    "image": "/assets/citria/products/bucket_hats/CITRIA_Bucket_Hat_175.png",
+    "sourcePage": 20
+  },
+  {
+    "id": "bucket_hats-176",
+    "code": "#176",
+    "name": "Bucket Hat #176",
+    "category": "Bucket Hats",
+    "price": 48,
+    "image": "/assets/citria/products/bucket_hats/CITRIA_Bucket_Hat_176.png",
+    "sourcePage": 20
+  },
+  {
+    "id": "bucket_hats-177",
+    "code": "#177",
+    "name": "Bucket Hat #177",
+    "category": "Bucket Hats",
+    "price": 32,
+    "image": "/assets/citria/products/bucket_hats/CITRIA_Bucket_Hat_177.png",
+    "sourcePage": 20
+  },
+  {
+    "id": "bucket_hats-178",
+    "code": "#178",
+    "name": "Bucket Hat #178",
+    "category": "Bucket Hats",
+    "price": 32,
+    "image": "/assets/citria/products/bucket_hats/CITRIA_Bucket_Hat_178.png",
+    "sourcePage": 20
+  },
+  {
+    "id": "bucket_hats-179",
+    "code": "#179",
+    "name": "Bucket Hat #179",
+    "category": "Bucket Hats",
+    "price": 32,
+    "image": "/assets/citria/products/bucket_hats/CITRIA_Bucket_Hat_179.png",
+    "sourcePage": 20
+  },
+  {
+    "id": "franela-custom-01",
+    "code": "",
+    "name": "Franela Custom — Diseño 01",
+    "category": "Franelas Custom",
+    "price": 20,
+    "image": "/assets/citria/products/franelas_custom/CITRIA_Franela_Custom_01.png",
+    "sourcePage": 21
+  },
+  {
+    "id": "franela-custom-02",
+    "code": "",
+    "name": "Franela Custom — Diseño 02",
+    "category": "Franelas Custom",
+    "price": 20,
+    "image": "/assets/citria/products/franelas_custom/CITRIA_Franela_Custom_02.png",
+    "sourcePage": 21
+  },
+  {
+    "id": "franela-custom-03",
+    "code": "",
+    "name": "Franela Custom — Diseño 03",
+    "category": "Franelas Custom",
+    "price": 20,
+    "image": "/assets/citria/products/franelas_custom/CITRIA_Franela_Custom_03.png",
+    "sourcePage": 21
+  },
+  {
+    "id": "franela-custom-04",
+    "code": "",
+    "name": "Franela Custom — Diseño 04",
+    "category": "Franelas Custom",
+    "price": 20,
+    "image": "/assets/citria/products/franelas_custom/CITRIA_Franela_Custom_04.png",
+    "sourcePage": 21
+  },
+  {
+    "id": "franela-custom-05",
+    "code": "",
+    "name": "Franela Custom — Diseño 05",
+    "category": "Franelas Custom",
+    "price": 20,
+    "image": "/assets/citria/products/franelas_custom/CITRIA_Franela_Custom_05.png",
+    "sourcePage": 21
+  },
+  {
+    "id": "franela-custom-06",
+    "code": "",
+    "name": "Franela Custom — Diseño 06",
+    "category": "Franelas Custom",
+    "price": 20,
+    "image": "/assets/citria/products/franelas_custom/CITRIA_Franela_Custom_06.png",
+    "sourcePage": 21
+  },
+  {
+    "id": "franela-custom-07",
+    "code": "",
+    "name": "Franela Custom — Diseño 07",
+    "category": "Franelas Custom",
+    "price": 20,
+    "image": "/assets/citria/products/franelas_custom/CITRIA_Franela_Custom_07.png",
+    "sourcePage": 21
+  },
+  {
+    "id": "franela-custom-08",
+    "code": "",
+    "name": "Franela Custom — Diseño 08",
+    "category": "Franelas Custom",
+    "price": 20,
+    "image": "/assets/citria/products/franelas_custom/CITRIA_Franela_Custom_08.png",
+    "sourcePage": 21
+  },
+  {
+    "id": "franela-custom-09",
+    "code": "",
+    "name": "Franela Custom — Diseño 09",
+    "category": "Franelas Custom",
+    "price": 20,
+    "image": "/assets/citria/products/franelas_custom/CITRIA_Franela_Custom_09.png",
+    "sourcePage": 22
+  },
+  {
+    "id": "franela-custom-10",
+    "code": "",
+    "name": "Franela Custom — Diseño 10",
+    "category": "Franelas Custom",
+    "price": 20,
+    "image": "/assets/citria/products/franelas_custom/CITRIA_Franela_Custom_10.png",
+    "sourcePage": 22
+  },
+  {
+    "id": "franela-custom-11",
+    "code": "",
+    "name": "Franela Custom — Diseño 11",
+    "category": "Franelas Custom",
+    "price": 20,
+    "image": "/assets/citria/products/franelas_custom/CITRIA_Franela_Custom_11.png",
+    "sourcePage": 22
+  },
+  {
+    "id": "franela-custom-12",
+    "code": "",
+    "name": "Franela Custom — Diseño 12",
+    "category": "Franelas Custom",
+    "price": 20,
+    "image": "/assets/citria/products/franelas_custom/CITRIA_Franela_Custom_12.png",
+    "sourcePage": 22
+  },
+  {
+    "id": "franela-custom-13",
+    "code": "",
+    "name": "Franela Custom — Diseño 13",
+    "category": "Franelas Custom",
+    "price": 20,
+    "image": "/assets/citria/products/franelas_custom/CITRIA_Franela_Custom_13.png",
+    "sourcePage": 22
+  },
+  {
+    "id": "franela-custom-14",
+    "code": "",
+    "name": "Franela Custom — Diseño 14",
+    "category": "Franelas Custom",
+    "price": 20,
+    "image": "/assets/citria/products/franelas_custom/CITRIA_Franela_Custom_14.png",
+    "sourcePage": 22
+  },
+  {
+    "id": "franela-custom-15",
+    "code": "",
+    "name": "Franela Custom — Diseño 15",
+    "category": "Franelas Custom",
+    "price": 20,
+    "image": "/assets/citria/products/franelas_custom/CITRIA_Franela_Custom_15.png",
+    "sourcePage": 22
+  },
+  {
+    "id": "franela-custom-16",
+    "code": "",
+    "name": "Franela Custom — Diseño 16",
+    "category": "Franelas Custom",
+    "price": 20,
+    "image": "/assets/citria/products/franelas_custom/CITRIA_Franela_Custom_16.png",
+    "sourcePage": 22
+  },
+  {
+    "id": "franela-custom-17",
+    "code": "",
+    "name": "Franela Custom — Diseño 17",
+    "category": "Franelas Custom",
+    "price": 20,
+    "image": "/assets/citria/products/franelas_custom/CITRIA_Franela_Custom_17.png",
+    "sourcePage": 22
+  },
+  {
+    "id": "franela-custom-18",
+    "code": "",
+    "name": "Franela Custom — Diseño 18",
+    "category": "Franelas Custom",
+    "price": 20,
+    "image": "/assets/citria/products/franelas_custom/CITRIA_Franela_Custom_18.png",
+    "sourcePage": 22
+  },
+  {
+    "id": "franela-custom-19",
+    "code": "",
+    "name": "Franela Custom — Diseño 19",
+    "category": "Franelas Custom",
+    "price": 20,
+    "image": "/assets/citria/products/franelas_custom/CITRIA_Franela_Custom_19.png",
+    "sourcePage": 23
+  },
+  {
+    "id": "franela-custom-20",
+    "code": "",
+    "name": "Franela Custom — Diseño 20",
+    "category": "Franelas Custom",
+    "price": 20,
+    "image": "/assets/citria/products/franelas_custom/CITRIA_Franela_Custom_20.png",
+    "sourcePage": 23
+  },
+  {
+    "id": "franela-custom-21",
+    "code": "",
+    "name": "Franela Custom — Diseño 21",
+    "category": "Franelas Custom",
+    "price": 20,
+    "image": "/assets/citria/products/franelas_custom/CITRIA_Franela_Custom_21.png",
+    "sourcePage": 23
+  },
+  {
+    "id": "franela-custom-22",
+    "code": "",
+    "name": "Franela Custom — Diseño 22",
+    "category": "Franelas Custom",
+    "price": 20,
+    "image": "/assets/citria/products/franelas_custom/CITRIA_Franela_Custom_22.png",
+    "sourcePage": 23
+  },
+  {
+    "id": "franela-custom-23",
+    "code": "",
+    "name": "Franela Custom — Diseño 23",
+    "category": "Franelas Custom",
+    "price": 20,
+    "image": "/assets/citria/products/franelas_custom/CITRIA_Franela_Custom_23.png",
+    "sourcePage": 23
+  },
+  {
+    "id": "franela-custom-24",
+    "code": "",
+    "name": "Franela Custom — Diseño 24",
+    "category": "Franelas Custom",
+    "price": 20,
+    "image": "/assets/citria/products/franelas_custom/CITRIA_Franela_Custom_24.png",
+    "sourcePage": 23
+  },
+  {
+    "id": "franela-custom-25",
+    "code": "",
+    "name": "Franela Custom — Diseño 25",
+    "category": "Franelas Custom",
+    "price": 20,
+    "image": "/assets/citria/products/franelas_custom/CITRIA_Franela_Custom_25.png",
+    "sourcePage": 23
+  },
+  {
+    "id": "franela-custom-26",
+    "code": "",
+    "name": "Franela Custom — Diseño 26",
+    "category": "Franelas Custom",
+    "price": 20,
+    "image": "/assets/citria/products/franelas_custom/CITRIA_Franela_Custom_26.png",
+    "sourcePage": 23
+  },
+  {
+    "id": "franela-custom-27",
+    "code": "",
+    "name": "Franela Custom — Diseño 27",
+    "category": "Franelas Custom",
+    "price": 20,
+    "image": "/assets/citria/products/franelas_custom/CITRIA_Franela_Custom_27.png",
+    "sourcePage": 23
+  },
+  {
+    "id": "franela-custom-28",
+    "code": "",
+    "name": "Franela Custom — Diseño 28",
+    "category": "Franelas Custom",
+    "price": 20,
+    "image": "/assets/citria/products/franelas_custom/CITRIA_Franela_Custom_28.png",
+    "sourcePage": 23
+  },
+  {
+    "id": "franela-custom-29",
+    "code": "",
+    "name": "Franela Custom — Diseño 29",
+    "category": "Franelas Custom",
+    "price": 20,
+    "image": "/assets/citria/products/franelas_custom/CITRIA_Franela_Custom_29.png",
+    "sourcePage": 24
+  },
+  {
+    "id": "franela-custom-30",
+    "code": "",
+    "name": "Franela Custom — Diseño 30",
+    "category": "Franelas Custom",
+    "price": 20,
+    "image": "/assets/citria/products/franelas_custom/CITRIA_Franela_Custom_30.png",
+    "sourcePage": 24
+  },
+  {
+    "id": "franela-custom-31",
+    "code": "",
+    "name": "Franela Custom — Diseño 31",
+    "category": "Franelas Custom",
+    "price": 20,
+    "image": "/assets/citria/products/franelas_custom/CITRIA_Franela_Custom_31.png",
+    "sourcePage": 24
+  },
+  {
+    "id": "franela-custom-32",
+    "code": "",
+    "name": "Franela Custom — Diseño 32",
+    "category": "Franelas Custom",
+    "price": 20,
+    "image": "/assets/citria/products/franelas_custom/CITRIA_Franela_Custom_32.png",
+    "sourcePage": 24
   }
 ]

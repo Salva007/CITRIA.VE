@@ -28,7 +28,7 @@ export default function FloatingWhatsApp() {
               </div>
               <div>
                 <h4 className="font-serif font-bold text-sm leading-tight">CITRIA</h4>
-                <p className="text-[10px] text-white/80">Atención personalizada · Lechería</p>
+                <p className="text-[10px] text-white/80">Atención personalizada · Puerto La Cruz</p>
               </div>
             </div>
             <button

@@ -45,7 +45,7 @@ export default function ProductDetailPage() {
   const favorited = isFavorite(product.id);
   const images = product.images && product.images.length > 0
     ? product.images
-    : ['/brand/citria-isotipo.png'];
+    : [];
   const whatsappUrl = getProductWhatsAppUrl(product);
 
   const handleShare = async () => {
@@ -88,11 +88,17 @@ export default function ProductDetailPage() {
           {/* Left Column: Gallery */}
           <div className="lg:col-span-6 space-y-4">
             <div className="relative aspect-[4/5] rounded-3xl overflow-hidden bg-citria-pink-subtle/50 shadow-inner">
-              <img
-                src={images[selectedImageIndex]}
-                alt={product.name}
-                className="w-full h-full object-contain object-center transition-all duration-300"
-              />
+              {images.length > 0 ? (
+                <img
+                  src={images[selectedImageIndex]}
+                  alt={product.name}
+                  className="w-full h-full object-contain object-center transition-all duration-300"
+                />
+              ) : (
+                <div className="w-full h-full flex items-center justify-center px-8 text-center bg-white">
+                  <span className="text-xs font-semibold uppercase tracking-wider text-citria-cocoa/45">Imagen no disponible</span>
+                </div>
+              )}
               {product.code && (
                 <div className="absolute top-4 left-4 px-3 py-1 bg-white/95 backdrop-blur-md rounded-full shadow-sm text-xs font-bold text-citria-cocoa">
                   Código {product.code}
@@ -131,7 +137,7 @@ export default function ProductDetailPage() {
               <div className="flex items-center justify-between text-xs text-citria-pink font-semibold uppercase tracking-widest mb-2">
                 <span>{product.categoryName || product.category}</span>
                 <span className="text-citria-cocoa/50 font-normal normal-case">
-                  CITRIA · Lechería
+                  CITRIA · Puerto La Cruz
                 </span>
               </div>
 
@@ -161,6 +167,14 @@ export default function ProductDetailPage() {
                   </ul>
                 </div>
               )}
+
+              {/* Current catalog price */}
+              <div className="flex items-center justify-between gap-4 mb-6">
+                <span className="text-xs font-semibold uppercase tracking-wider text-citria-cocoa/55">Precio</span>
+                <span className="font-serif text-3xl font-bold text-citria-pink text-right">
+                  {product.price != null ? `$${product.price}` : 'Consulta precio al WhatsApp'}
+                </span>
+              </div>
 
               {/* Commercial Notice Strictly from PRD */}
               <div className="bg-amber-50/80 border border-amber-200 rounded-2xl p-4 text-xs text-amber-950 flex items-start gap-3">

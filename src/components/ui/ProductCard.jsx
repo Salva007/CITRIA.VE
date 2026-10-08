@@ -6,7 +6,7 @@ import { useWishlist } from '../../context/WishlistContext';
 export default function ProductCard({ product, onQuickView }) {
   const { isFavorite, toggleFavorite } = useWishlist();
   const favorited = isFavorite(product.id);
-  const mainImage = product.image || product.images?.[0] || '/brand/citria-isotipo.png';
+  const mainImage = product.image || product.images?.[0] || null;
   const whatsappUrl = getProductWhatsAppUrl(product);
 
   const handleCardClick = () => {
@@ -20,12 +20,18 @@ export default function ProductCard({ product, onQuickView }) {
     >
       {/* Image Container with Badges & Quick Action */}
       <div className="relative aspect-[4/5] w-full overflow-hidden bg-citria-pink-subtle/50">
-        <img
-          src={mainImage}
-          alt={product.name}
-          loading="lazy"
-          className="w-full h-full object-contain object-center transition-transform duration-700 ease-out group-hover:scale-105"
-        />
+        {mainImage ? (
+          <img
+            src={mainImage}
+            alt={product.name}
+            loading="lazy"
+            className="w-full h-full object-contain object-center transition-transform duration-700 ease-out group-hover:scale-105"
+          />
+        ) : (
+          <div className="w-full h-full flex items-center justify-center bg-white px-6 text-center">
+            <span className="text-xs font-semibold uppercase tracking-wider text-citria-cocoa/45">Imagen no disponible</span>
+          </div>
+        )}
 
         {/* Gradient Overlay on Hover */}
         <div className="absolute inset-0 bg-gradient-to-t from-citria-cocoa/40 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none" />
@@ -92,12 +98,12 @@ export default function ProductCard({ product, onQuickView }) {
 
         {/* Price & Commercial Status */}
         <div className="pt-2 sm:pt-3 border-t border-citria-pink/10 flex flex-col gap-2">
-          <div className="flex items-baseline justify-between text-[10px] sm:text-xs">
+          <div className="flex items-baseline justify-between text-[10px] sm:text-xs gap-3">
             <span className="text-citria-cocoa/60 font-medium">
               Precio
             </span>
-            <span className="font-semibold text-citria-pink">
-              Por WhatsApp
+            <span className="font-semibold text-citria-pink text-right">
+              {product.price != null ? `$${product.price}` : 'Consulta precio al WhatsApp'}
             </span>
           </div>
 

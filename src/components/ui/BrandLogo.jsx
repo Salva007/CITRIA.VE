@@ -51,7 +51,7 @@ export default function BrandLogo({
                 isWhite ? 'text-citria-pink-light/80' : 'text-citria-cocoa/60'
               }`}
             >
-              Lechería · VE
+              Puerto La Cruz · VE
             </span>
           )}
         </div>

@@ -19,7 +19,7 @@ export default function EditorialLifestyle() {
               {/* Image 1: Fashion beads detail */}
               <div className="relative rounded-3xl overflow-hidden aspect-[3/4] shadow-md border-2 border-white group">
                 <img
-                  src="/assets/citria/products/bandoleros_miyuki/CITRIA_Bandolero_Miyuki_050.jpg"
+                  src="/assets/citria/products/bandoleros_miyuki/CITRIA_Bandolero_Miyuki_050.png"
                   alt="Textura y detalle CITRIA"
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                 />
@@ -34,7 +34,7 @@ export default function EditorialLifestyle() {
                   "El toque de color que falta en tu día"
                 </span>
                 <p className="text-xs text-citria-cocoa/75">
-                  Piezas pensadas para acompañar fines de semana de sol, paseos por Lechería y noches entre amigos.
+                  Piezas pensadas para acompañar fines de semana de sol, paseos por Puerto La Cruz y noches entre amigos.
                 </p>
               </div>
             </div>
@@ -54,12 +54,12 @@ export default function EditorialLifestyle() {
               {/* Image 2: Lifestyle beach/sunshine */}
               <div className="relative rounded-3xl overflow-hidden aspect-[3/4] shadow-md border-2 border-white group">
                 <img
-                  src="/assets/citria/products/pareo_handmade/CITRIA_Pareo_Handmade_Personalizado.jpg"
-                  alt="Lifestyle Lechería CITRIA"
+                  src="/assets/citria/products/pareo_handmade/CITRIA_Pareo_Handmade_Personalizado.png"
+                  alt="Lifestyle Puerto La Cruz CITRIA"
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                 />
                 <div className="absolute bottom-3 right-3 bg-white/95 backdrop-blur-md px-3 py-1 rounded-full text-[10px] font-bold text-citria-pink tracking-wider">
-                  Lechería Style
+                  Puerto La Cruz Style
                 </div>
               </div>
             </div>

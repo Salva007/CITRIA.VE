@@ -21,7 +21,7 @@ export default function HeroSection() {
               <Sparkles className="w-3.5 h-3.5 fill-current animate-pulse" />
               <span>Catálogo CITRIA · Octubre 2026</span>
               <span className="w-1.5 h-1.5 rounded-full bg-citria-orange" />
-              <span className="text-citria-cocoa/70 font-medium">Lechería, VE</span>
+              <span className="text-citria-cocoa/70 font-medium">Puerto La Cruz, VE</span>
             </div>
 
             {/* Main Hero Title strictly matching PRD */}
@@ -79,7 +79,7 @@ export default function HeroSection() {
               {/* Main Fashion Feature Card */}
               <div className="relative rounded-3xl overflow-hidden shadow-2xl border-4 border-white aspect-[4/5] bg-citria-pink-subtle">
                 <img
-                  src="/assets/citria/products/carteras_miyuki/CITRIA_Cartera_Miyuki_023.jpg"
+                  src="/assets/citria/products/carteras_miyuki/CITRIA_Cartera_Miyuki_023.png"
                   alt="Colección Miyuki CITRIA"
                   className="w-full h-full object-cover object-center"
                 />
@@ -112,7 +112,7 @@ export default function HeroSection() {
               {/* Floating Secondary Mini Image Card */}
               <div className="hidden sm:block absolute -bottom-6 -left-8 w-44 rounded-2xl overflow-hidden shadow-xl border-4 border-white bg-white rotate-[-4deg] hover:rotate-0 transition-transform duration-300">
                 <img
-                  src="/assets/citria/products/lentes_oval/CITRIA_Lente_Oval_083.jpg"
+                  src="/assets/citria/products/lentes_oval/CITRIA_Lente_Oval_083.png"
                   alt="Lentes Oval CITRIA"
                   className="w-full h-32 object-cover"
                 />

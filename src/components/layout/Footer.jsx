@@ -158,7 +158,7 @@ export default function Footer() {
         {/* Bottom Credits & Legal Links */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between text-xs text-white/60 gap-4">
           <p>
-            © {currentYear} CITRIA.VE · Todos los derechos reservados. Lechería, Venezuela.
+            © {currentYear} CITRIA.VE · Todos los derechos reservados. Puerto La Cruz, Venezuela.
           </p>
 
           <div className="flex items-center space-x-6">

@@ -201,7 +201,7 @@ export default function Navbar() {
                 <img src="/brand/citria-isotipo.png" alt="CITRIA" className="w-7 h-7 object-contain" />
                 <span className="font-serif font-bold text-citria-cocoa text-base">Menú CITRIA</span>
               </div>
-              <span className="text-[11px] text-citria-pink font-semibold">Lechería, VE</span>
+              <span className="text-[11px] text-citria-pink font-semibold">Puerto La Cruz, VE</span>
             </div>
 
             <Link
